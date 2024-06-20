@@ -1,0 +1,1657 @@
+linetype	xmin	xmax	key	showSelectedlegendlinetype	showSelected1	showSelected2	PANEL	group
+0	0	50.4	0 50400000	correct	0.18	finite	1	1
+0	0	50.4	0 50400000	correct	0.22	finite	1	1
+0	0	50.4	0 50400000	correct	0.26	finite	1	1
+0	0	50.4	0 50400000	correct	0.3	finite	1	1
+0	0	50.4	0 50400000	correct	0.34	finite	1	1
+0	0	50.4	0 50400000	correct	0.38	finite	1	1
+0	0	50.4	0 50400000	correct	0.42	finite	1	1
+0	0	50.4	0 50400000	correct	0.46	finite	1	1
+0	0	50.4	0 50400000	correct	0.5	finite	1	1
+0	0	50.4	0 50400000	correct	0.54	finite	1	1
+0	0	50.4	0 50400000	correct	0.58	finite	1	1
+0	0	50.4	0 50400000	correct	0.62	finite	1	1
+0	0	50.4	0 50400000	correct	0.66	finite	1	1
+0	0	50.4	0 50400000	correct	0.7	finite	1	1
+0	0	50.4	0 50400000	correct	0.74	finite	1	1
+0	0	50.4	0 50400000	correct	0.78	finite	1	1
+0	0	50.4	0 50400000	correct	0.82	finite	1	1
+0	0	50.4	0 50400000	correct	0.86	finite	1	1
+0	0	50.4	0 50400000	correct	0.9	finite	1	1
+0	0	50.4	0 50400000	correct	0.94	finite	1	1
+0	0	50.4	0 50400000	correct	0.98	finite	1	1
+0	0	50.4	0 50400000	correct	1.02	finite	1	1
+0	0	50.4	0 50400000	correct	1.06	finite	1	1
+0	0	50.4	0 50400000	correct	1.1	finite	1	1
+0	0	50.4	0 50400000	correct	1.14	finite	1	1
+0	0	50.4	0 50400000	correct	1.18	finite	1	1
+0	0	50.4	0 50400000	correct	1.22	finite	1	1
+0	0	50.4	0 50400000	correct	1.26	finite	1	1
+0	0	50.4	0 50400000	correct	1.3	finite	1	1
+0	0	50.4	0 50400000	correct	1.34	finite	1	1
+0	0	50.4	0 50400000	correct	1.38	finite	1	1
+0	0	50.4	0 50400000	correct	1.42	finite	1	1
+0	0	50.4	0 50400000	correct	1.46	finite	1	1
+0	0	50.4	0 50400000	correct	1.5	finite	1	1
+0	0	50.4	0 50400000	correct	1.54	finite	1	1
+0	0	50.4	0 50400000	correct	1.58	finite	1	1
+0	0	50.4	0 50400000	correct	1.62	finite	1	1
+0	0	50.4	0 50400000	correct	1.66	finite	1	1
+0	0	50.4	0 50400000	correct	1.7	finite	1	1
+0	0	50.4	0 50400000	correct	1.74	finite	1	1
+0	0	50.4	0 50400000	correct	1.78	finite	1	1
+0	0	50.4	0 50400000	correct	1.82	finite	1	1
+0	0	50.4	0 50400000	correct	1.86	finite	1	1
+0	0	50.4	0 50400000	correct	1.9	finite	1	1
+0	0	50.4	0 50400000	correct	1.94	finite	1	1
+0	0	50.4	0 50400000	correct	1.98	finite	1	1
+1	0	50.4	0 50400000	false positive	0.1	finite	1	3
+1	0	50.4	0 50400000	false positive	0.14	finite	1	3
+0	0	50.4	0 50400000	correct	-0.0600000000000001	finite	1	1
+0	0	50.4	0 50400000	correct	-0.02	finite	1	1
+0	0	50.4	0 50400000	correct	0.02	finite	1	1
+0	0	50.4	0 50400000	correct	0.0600000000000001	finite	1	1
+1	0	50.4	0 50400000	false positive	-0.46	finite	1	3
+1	0	50.4	0 50400000	false positive	-0.42	finite	1	3
+1	0	50.4	0 50400000	false positive	-0.38	finite	1	3
+1	0	50.4	0 50400000	false positive	-0.34	finite	1	3
+1	0	50.4	0 50400000	false positive	-0.3	finite	1	3
+1	0	50.4	0 50400000	false positive	-0.26	finite	1	3
+1	0	50.4	0 50400000	false positive	-0.22	finite	1	3
+1	0	50.4	0 50400000	false positive	-0.18	finite	1	3
+1	0	50.4	0 50400000	false positive	-0.14	finite	1	3
+1	0	50.4	0 50400000	false positive	-0.1	finite	1	3
+1	0	50.4	0 50400000	false positive	-0.82	finite	1	3
+1	0	50.4	0 50400000	false positive	-0.78	finite	1	3
+1	0	50.4	0 50400000	false positive	-0.74	finite	1	3
+1	0	50.4	0 50400000	false positive	-0.7	finite	1	3
+1	0	50.4	0 50400000	false positive	-0.66	finite	1	3
+1	0	50.4	0 50400000	false positive	-0.62	finite	1	3
+1	0	50.4	0 50400000	false positive	-0.58	finite	1	3
+1	0	50.4	0 50400000	false positive	-0.54	finite	1	3
+1	0	50.4	0 50400000	false positive	-0.5	finite	1	3
+1	0	50.4	0 50400000	false positive	-1.18	finite	1	3
+1	0	50.4	0 50400000	false positive	-1.14	finite	1	3
+1	0	50.4	0 50400000	false positive	-1.1	finite	1	3
+1	0	50.4	0 50400000	false positive	-1.06	finite	1	3
+1	0	50.4	0 50400000	false positive	-1.02	finite	1	3
+1	0	50.4	0 50400000	false positive	-0.98	finite	1	3
+1	0	50.4	0 50400000	false positive	-0.94	finite	1	3
+1	0	50.4	0 50400000	false positive	-0.9	finite	1	3
+1	0	50.4	0 50400000	false positive	-0.86	finite	1	3
+1	0	50.4	0 50400000	false positive	-1.3	finite	1	3
+1	0	50.4	0 50400000	false positive	-1.26	finite	1	3
+1	0	50.4	0 50400000	false positive	-1.22	finite	1	3
+1	0	50.4	0 50400000	false positive	-1.5	finite	1	3
+1	0	50.4	0 50400000	false positive	-1.46	finite	1	3
+1	0	50.4	0 50400000	false positive	-1.42	finite	1	3
+1	0	50.4	0 50400000	false positive	-1.38	finite	1	3
+1	0	50.4	0 50400000	false positive	-1.34	finite	1	3
+1	0	50.4	0 50400000	false positive	-1.54	finite	1	3
+1	0	50.4	0 50400000	false positive	-1.62	finite	1	3
+1	0	50.4	0 50400000	false positive	-1.58	finite	1	3
+1	0	50.4	0 50400000	false positive	-2.1	finite	1	3
+1	0	50.4	0 50400000	false positive	-2.06	finite	1	3
+1	0	50.4	0 50400000	false positive	-2.02	finite	1	3
+1	0	50.4	0 50400000	false positive	-1.98	finite	1	3
+1	0	50.4	0 50400000	false positive	-1.94	finite	1	3
+1	0	50.4	0 50400000	false positive	-1.9	finite	1	3
+1	0	50.4	0 50400000	false positive	-1.86	finite	1	3
+1	0	50.4	0 50400000	false positive	-1.82	finite	1	3
+1	0	50.4	0 50400000	false positive	-1.78	finite	1	3
+1	0	50.4	0 50400000	false positive	-1.74	finite	1	3
+1	0	50.4	0 50400000	false positive	-1.7	finite	1	3
+1	0	50.4	0 50400000	false positive	-1.66	finite	1	3
+0	0	50.4	0 50400000	correct	-0.1	infinite	2	2
+0	0	50.4	0 50400000	correct	-0.0600000000000001	infinite	2	2
+0	0	50.4	0 50400000	correct	-0.02	infinite	2	2
+0	0	50.4	0 50400000	correct	0.02	infinite	2	2
+0	0	50.4	0 50400000	correct	0.0600000000000001	infinite	2	2
+0	0	50.4	0 50400000	correct	0.1	infinite	2	2
+0	0	50.4	0 50400000	correct	0.14	infinite	2	2
+0	0	50.4	0 50400000	correct	0.18	infinite	2	2
+0	0	50.4	0 50400000	correct	0.22	infinite	2	2
+0	0	50.4	0 50400000	correct	0.26	infinite	2	2
+0	0	50.4	0 50400000	correct	0.3	infinite	2	2
+0	0	50.4	0 50400000	correct	0.34	infinite	2	2
+0	0	50.4	0 50400000	correct	0.38	infinite	2	2
+0	0	50.4	0 50400000	correct	0.42	infinite	2	2
+0	0	50.4	0 50400000	correct	0.46	infinite	2	2
+0	0	50.4	0 50400000	correct	0.5	infinite	2	2
+0	0	50.4	0 50400000	correct	0.54	infinite	2	2
+0	0	50.4	0 50400000	correct	0.58	infinite	2	2
+0	0	50.4	0 50400000	correct	0.62	infinite	2	2
+0	0	50.4	0 50400000	correct	0.66	infinite	2	2
+0	0	50.4	0 50400000	correct	0.7	infinite	2	2
+0	0	50.4	0 50400000	correct	0.74	infinite	2	2
+0	0	50.4	0 50400000	correct	0.78	infinite	2	2
+0	0	50.4	0 50400000	correct	0.82	infinite	2	2
+0	0	50.4	0 50400000	correct	0.86	infinite	2	2
+0	0	50.4	0 50400000	correct	0.9	infinite	2	2
+0	0	50.4	0 50400000	correct	0.94	infinite	2	2
+0	0	50.4	0 50400000	correct	0.98	infinite	2	2
+0	0	50.4	0 50400000	correct	1.02	infinite	2	2
+0	0	50.4	0 50400000	correct	1.06	infinite	2	2
+0	0	50.4	0 50400000	correct	1.1	infinite	2	2
+0	0	50.4	0 50400000	correct	1.14	infinite	2	2
+0	0	50.4	0 50400000	correct	1.18	infinite	2	2
+0	0	50.4	0 50400000	correct	1.22	infinite	2	2
+0	0	50.4	0 50400000	correct	1.26	infinite	2	2
+0	0	50.4	0 50400000	correct	1.3	infinite	2	2
+0	0	50.4	0 50400000	correct	1.34	infinite	2	2
+0	0	50.4	0 50400000	correct	1.38	infinite	2	2
+0	0	50.4	0 50400000	correct	1.42	infinite	2	2
+0	0	50.4	0 50400000	correct	1.46	infinite	2	2
+0	0	50.4	0 50400000	correct	1.5	infinite	2	2
+0	0	50.4	0 50400000	correct	1.54	infinite	2	2
+0	0	50.4	0 50400000	correct	1.58	infinite	2	2
+0	0	50.4	0 50400000	correct	1.62	infinite	2	2
+0	0	50.4	0 50400000	correct	1.66	infinite	2	2
+0	0	50.4	0 50400000	correct	1.7	infinite	2	2
+0	0	50.4	0 50400000	correct	1.74	infinite	2	2
+0	0	50.4	0 50400000	correct	1.78	infinite	2	2
+0	0	50.4	0 50400000	correct	1.82	infinite	2	2
+0	0	50.4	0 50400000	correct	1.86	infinite	2	2
+0	0	50.4	0 50400000	correct	1.9	infinite	2	2
+0	0	50.4	0 50400000	correct	1.94	infinite	2	2
+0	0	50.4	0 50400000	correct	1.98	infinite	2	2
+1	0	50.4	0 50400000	false positive	-0.14	infinite	2	4
+1	0	50.4	0 50400000	false positive	-0.1	infinite	2	4
+0	0	50.4	0 50400000	correct	-0.34	infinite	2	2
+0	0	50.4	0 50400000	correct	-0.3	infinite	2	2
+0	0	50.4	0 50400000	correct	-0.26	infinite	2	2
+0	0	50.4	0 50400000	correct	-0.22	infinite	2	2
+0	0	50.4	0 50400000	correct	-0.18	infinite	2	2
+1	0	50.4	0 50400000	false positive	-0.74	infinite	2	4
+1	0	50.4	0 50400000	false positive	-0.7	infinite	2	4
+1	0	50.4	0 50400000	false positive	-0.66	infinite	2	4
+1	0	50.4	0 50400000	false positive	-0.62	infinite	2	4
+1	0	50.4	0 50400000	false positive	-0.58	infinite	2	4
+1	0	50.4	0 50400000	false positive	-0.54	infinite	2	4
+1	0	50.4	0 50400000	false positive	-0.5	infinite	2	4
+1	0	50.4	0 50400000	false positive	-0.46	infinite	2	4
+1	0	50.4	0 50400000	false positive	-0.42	infinite	2	4
+1	0	50.4	0 50400000	false positive	-0.38	infinite	2	4
+1	0	50.4	0 50400000	false positive	-1.1	infinite	2	4
+1	0	50.4	0 50400000	false positive	-1.06	infinite	2	4
+1	0	50.4	0 50400000	false positive	-1.02	infinite	2	4
+1	0	50.4	0 50400000	false positive	-0.98	infinite	2	4
+1	0	50.4	0 50400000	false positive	-0.94	infinite	2	4
+1	0	50.4	0 50400000	false positive	-0.9	infinite	2	4
+1	0	50.4	0 50400000	false positive	-0.86	infinite	2	4
+1	0	50.4	0 50400000	false positive	-0.82	infinite	2	4
+1	0	50.4	0 50400000	false positive	-0.78	infinite	2	4
+1	0	50.4	0 50400000	false positive	-1.46	infinite	2	4
+1	0	50.4	0 50400000	false positive	-1.42	infinite	2	4
+1	0	50.4	0 50400000	false positive	-1.38	infinite	2	4
+1	0	50.4	0 50400000	false positive	-1.34	infinite	2	4
+1	0	50.4	0 50400000	false positive	-1.3	infinite	2	4
+1	0	50.4	0 50400000	false positive	-1.26	infinite	2	4
+1	0	50.4	0 50400000	false positive	-1.22	infinite	2	4
+1	0	50.4	0 50400000	false positive	-1.18	infinite	2	4
+1	0	50.4	0 50400000	false positive	-1.14	infinite	2	4
+1	0	50.4	0 50400000	false positive	-1.58	infinite	2	4
+1	0	50.4	0 50400000	false positive	-1.54	infinite	2	4
+1	0	50.4	0 50400000	false positive	-1.5	infinite	2	4
+1	0	50.4	0 50400000	false positive	-1.74	infinite	2	4
+1	0	50.4	0 50400000	false positive	-1.7	infinite	2	4
+1	0	50.4	0 50400000	false positive	-1.66	infinite	2	4
+1	0	50.4	0 50400000	false positive	-1.62	infinite	2	4
+1	0	50.4	0 50400000	false positive	-1.82	infinite	2	4
+1	0	50.4	0 50400000	false positive	-1.78	infinite	2	4
+1	0	50.4	0 50400000	false positive	-1.9	infinite	2	4
+1	0	50.4	0 50400000	false positive	-1.86	infinite	2	4
+1	0	50.4	0 50400000	false positive	-2.1	infinite	2	4
+1	0	50.4	0 50400000	false positive	-2.06	infinite	2	4
+1	0	50.4	0 50400000	false positive	-2.02	infinite	2	4
+1	0	50.4	0 50400000	false positive	-1.98	infinite	2	4
+1	0	50.4	0 50400000	false positive	-1.94	infinite	2	4
+0	0	93.3	0 93300000	correct	0.26	finite	3	9
+0	0	93.3	0 93300000	correct	0.3	finite	3	9
+0	0	93.3	0 93300000	correct	0.34	finite	3	9
+0	0	93.3	0 93300000	correct	0.38	finite	3	9
+0	0	93.3	0 93300000	correct	0.42	finite	3	9
+0	0	93.3	0 93300000	correct	0.46	finite	3	9
+0	0	93.3	0 93300000	correct	0.5	finite	3	9
+0	0	93.3	0 93300000	correct	0.54	finite	3	9
+0	0	93.3	0 93300000	correct	0.58	finite	3	9
+0	0	93.3	0 93300000	correct	0.62	finite	3	9
+0	0	93.3	0 93300000	correct	0.66	finite	3	9
+0	0	93.3	0 93300000	correct	0.7	finite	3	9
+0	0	93.3	0 93300000	correct	0.74	finite	3	9
+0	0	93.3	0 93300000	correct	0.78	finite	3	9
+0	0	93.3	0 93300000	correct	0.82	finite	3	9
+0	0	93.3	0 93300000	correct	0.86	finite	3	9
+0	0	93.3	0 93300000	correct	0.9	finite	3	9
+0	0	93.3	0 93300000	correct	0.94	finite	3	9
+0	0	93.3	0 93300000	correct	0.98	finite	3	9
+0	0	93.3	0 93300000	correct	1.02	finite	3	9
+0	0	93.3	0 93300000	correct	1.06	finite	3	9
+0	0	93.3	0 93300000	correct	1.1	finite	3	9
+0	0	93.3	0 93300000	correct	1.14	finite	3	9
+0	0	93.3	0 93300000	correct	1.18	finite	3	9
+0	0	93.3	0 93300000	correct	1.22	finite	3	9
+0	0	93.3	0 93300000	correct	1.26	finite	3	9
+0	0	93.3	0 93300000	correct	1.3	finite	3	9
+0	0	93.3	0 93300000	correct	1.34	finite	3	9
+0	0	93.3	0 93300000	correct	1.38	finite	3	9
+0	0	93.3	0 93300000	correct	1.42	finite	3	9
+0	0	93.3	0 93300000	correct	1.46	finite	3	9
+0	0	93.3	0 93300000	correct	1.5	finite	3	9
+0	0	93.3	0 93300000	correct	1.54	finite	3	9
+0	0	93.3	0 93300000	correct	1.58	finite	3	9
+0	0	93.3	0 93300000	correct	1.62	finite	3	9
+0	0	93.3	0 93300000	correct	1.66	finite	3	9
+0	0	93.3	0 93300000	correct	1.7	finite	3	9
+0	0	93.3	0 93300000	correct	1.74	finite	3	9
+0	0	93.3	0 93300000	correct	1.78	finite	3	9
+0	0	93.3	0 93300000	correct	1.82	finite	3	9
+0	0	93.3	0 93300000	correct	1.86	finite	3	9
+0	0	93.3	0 93300000	correct	1.9	finite	3	9
+0	0	93.3	0 93300000	correct	1.94	finite	3	9
+0	0	93.3	0 93300000	correct	1.98	finite	3	9
+1	0	93.3	0 93300000	false positive	0.1	finite	3	13
+1	0	93.3	0 93300000	false positive	0.14	finite	3	13
+1	0	93.3	0 93300000	false positive	0.18	finite	3	13
+1	0	93.3	0 93300000	false positive	0.22	finite	3	13
+0	0	93.3	0 93300000	correct	-0.0600000000000001	finite	3	9
+0	0	93.3	0 93300000	correct	-0.02	finite	3	9
+0	0	93.3	0 93300000	correct	0.02	finite	3	9
+0	0	93.3	0 93300000	correct	0.0600000000000001	finite	3	9
+1	0	93.3	0 93300000	false positive	-0.74	finite	3	13
+1	0	93.3	0 93300000	false positive	-0.7	finite	3	13
+1	0	93.3	0 93300000	false positive	-0.66	finite	3	13
+1	0	93.3	0 93300000	false positive	-0.62	finite	3	13
+1	0	93.3	0 93300000	false positive	-0.58	finite	3	13
+1	0	93.3	0 93300000	false positive	-0.54	finite	3	13
+1	0	93.3	0 93300000	false positive	-0.5	finite	3	13
+1	0	93.3	0 93300000	false positive	-0.46	finite	3	13
+1	0	93.3	0 93300000	false positive	-0.42	finite	3	13
+1	0	93.3	0 93300000	false positive	-0.38	finite	3	13
+1	0	93.3	0 93300000	false positive	-0.34	finite	3	13
+1	0	93.3	0 93300000	false positive	-0.3	finite	3	13
+1	0	93.3	0 93300000	false positive	-0.26	finite	3	13
+1	0	93.3	0 93300000	false positive	-0.22	finite	3	13
+1	0	93.3	0 93300000	false positive	-0.18	finite	3	13
+1	0	93.3	0 93300000	false positive	-0.14	finite	3	13
+1	0	93.3	0 93300000	false positive	-0.1	finite	3	13
+1	0	93.3	0 93300000	false positive	-0.94	finite	3	13
+1	0	93.3	0 93300000	false positive	-0.9	finite	3	13
+1	0	93.3	0 93300000	false positive	-0.86	finite	3	13
+1	0	93.3	0 93300000	false positive	-0.82	finite	3	13
+1	0	93.3	0 93300000	false positive	-0.78	finite	3	13
+1	0	93.3	0 93300000	false positive	-1.3	finite	3	13
+1	0	93.3	0 93300000	false positive	-1.26	finite	3	13
+1	0	93.3	0 93300000	false positive	-1.22	finite	3	13
+1	0	93.3	0 93300000	false positive	-1.18	finite	3	13
+1	0	93.3	0 93300000	false positive	-1.14	finite	3	13
+1	0	93.3	0 93300000	false positive	-1.1	finite	3	13
+1	0	93.3	0 93300000	false positive	-1.06	finite	3	13
+1	0	93.3	0 93300000	false positive	-1.02	finite	3	13
+1	0	93.3	0 93300000	false positive	-0.98	finite	3	13
+1	0	93.3	0 93300000	false positive	-1.38	finite	3	13
+1	0	93.3	0 93300000	false positive	-1.34	finite	3	13
+1	0	93.3	0 93300000	false positive	-2.1	finite	3	13
+1	0	93.3	0 93300000	false positive	-2.06	finite	3	13
+1	0	93.3	0 93300000	false positive	-2.02	finite	3	13
+1	0	93.3	0 93300000	false positive	-1.98	finite	3	13
+1	0	93.3	0 93300000	false positive	-1.94	finite	3	13
+1	0	93.3	0 93300000	false positive	-1.9	finite	3	13
+1	0	93.3	0 93300000	false positive	-1.86	finite	3	13
+1	0	93.3	0 93300000	false positive	-1.82	finite	3	13
+1	0	93.3	0 93300000	false positive	-1.78	finite	3	13
+1	0	93.3	0 93300000	false positive	-1.74	finite	3	13
+1	0	93.3	0 93300000	false positive	-1.7	finite	3	13
+1	0	93.3	0 93300000	false positive	-1.66	finite	3	13
+1	0	93.3	0 93300000	false positive	-1.62	finite	3	13
+1	0	93.3	0 93300000	false positive	-1.58	finite	3	13
+1	0	93.3	0 93300000	false positive	-1.54	finite	3	13
+1	0	93.3	0 93300000	false positive	-1.5	finite	3	13
+1	0	93.3	0 93300000	false positive	-1.46	finite	3	13
+1	0	93.3	0 93300000	false positive	-1.42	finite	3	13
+0	0	93.3	0 93300000	correct	-0.1	infinite	4	10
+0	0	93.3	0 93300000	correct	-0.0600000000000001	infinite	4	10
+0	0	93.3	0 93300000	correct	-0.02	infinite	4	10
+0	0	93.3	0 93300000	correct	0.02	infinite	4	10
+0	0	93.3	0 93300000	correct	0.0600000000000001	infinite	4	10
+0	0	93.3	0 93300000	correct	0.1	infinite	4	10
+0	0	93.3	0 93300000	correct	0.14	infinite	4	10
+0	0	93.3	0 93300000	correct	0.18	infinite	4	10
+0	0	93.3	0 93300000	correct	0.22	infinite	4	10
+0	0	93.3	0 93300000	correct	0.26	infinite	4	10
+0	0	93.3	0 93300000	correct	0.3	infinite	4	10
+0	0	93.3	0 93300000	correct	0.34	infinite	4	10
+0	0	93.3	0 93300000	correct	0.38	infinite	4	10
+0	0	93.3	0 93300000	correct	0.42	infinite	4	10
+0	0	93.3	0 93300000	correct	0.46	infinite	4	10
+0	0	93.3	0 93300000	correct	0.5	infinite	4	10
+0	0	93.3	0 93300000	correct	0.54	infinite	4	10
+0	0	93.3	0 93300000	correct	0.58	infinite	4	10
+0	0	93.3	0 93300000	correct	0.62	infinite	4	10
+0	0	93.3	0 93300000	correct	0.66	infinite	4	10
+0	0	93.3	0 93300000	correct	0.7	infinite	4	10
+0	0	93.3	0 93300000	correct	0.74	infinite	4	10
+0	0	93.3	0 93300000	correct	0.78	infinite	4	10
+0	0	93.3	0 93300000	correct	0.82	infinite	4	10
+0	0	93.3	0 93300000	correct	0.86	infinite	4	10
+0	0	93.3	0 93300000	correct	0.9	infinite	4	10
+0	0	93.3	0 93300000	correct	0.94	infinite	4	10
+0	0	93.3	0 93300000	correct	0.98	infinite	4	10
+0	0	93.3	0 93300000	correct	1.02	infinite	4	10
+0	0	93.3	0 93300000	correct	1.06	infinite	4	10
+0	0	93.3	0 93300000	correct	1.1	infinite	4	10
+0	0	93.3	0 93300000	correct	1.14	infinite	4	10
+0	0	93.3	0 93300000	correct	1.18	infinite	4	10
+0	0	93.3	0 93300000	correct	1.22	infinite	4	10
+0	0	93.3	0 93300000	correct	1.26	infinite	4	10
+0	0	93.3	0 93300000	correct	1.3	infinite	4	10
+0	0	93.3	0 93300000	correct	1.34	infinite	4	10
+0	0	93.3	0 93300000	correct	1.38	infinite	4	10
+0	0	93.3	0 93300000	correct	1.42	infinite	4	10
+0	0	93.3	0 93300000	correct	1.46	infinite	4	10
+0	0	93.3	0 93300000	correct	1.5	infinite	4	10
+0	0	93.3	0 93300000	correct	1.54	infinite	4	10
+0	0	93.3	0 93300000	correct	1.58	infinite	4	10
+0	0	93.3	0 93300000	correct	1.62	infinite	4	10
+0	0	93.3	0 93300000	correct	1.66	infinite	4	10
+0	0	93.3	0 93300000	correct	1.7	infinite	4	10
+0	0	93.3	0 93300000	correct	1.74	infinite	4	10
+0	0	93.3	0 93300000	correct	1.78	infinite	4	10
+0	0	93.3	0 93300000	correct	1.82	infinite	4	10
+0	0	93.3	0 93300000	correct	1.86	infinite	4	10
+0	0	93.3	0 93300000	correct	1.9	infinite	4	10
+0	0	93.3	0 93300000	correct	1.94	infinite	4	10
+0	0	93.3	0 93300000	correct	1.98	infinite	4	10
+1	0	93.3	0 93300000	false positive	-0.26	infinite	4	14
+1	0	93.3	0 93300000	false positive	-0.22	infinite	4	14
+1	0	93.3	0 93300000	false positive	-0.18	infinite	4	14
+1	0	93.3	0 93300000	false positive	-0.14	infinite	4	14
+1	0	93.3	0 93300000	false positive	-0.1	infinite	4	14
+0	0	93.3	0 93300000	correct	-0.38	infinite	4	10
+0	0	93.3	0 93300000	correct	-0.34	infinite	4	10
+0	0	93.3	0 93300000	correct	-0.3	infinite	4	10
+1	0	93.3	0 93300000	false positive	-1.06	infinite	4	14
+1	0	93.3	0 93300000	false positive	-1.02	infinite	4	14
+1	0	93.3	0 93300000	false positive	-0.98	infinite	4	14
+1	0	93.3	0 93300000	false positive	-0.94	infinite	4	14
+1	0	93.3	0 93300000	false positive	-0.9	infinite	4	14
+1	0	93.3	0 93300000	false positive	-0.86	infinite	4	14
+1	0	93.3	0 93300000	false positive	-0.82	infinite	4	14
+1	0	93.3	0 93300000	false positive	-0.78	infinite	4	14
+1	0	93.3	0 93300000	false positive	-0.74	infinite	4	14
+1	0	93.3	0 93300000	false positive	-0.7	infinite	4	14
+1	0	93.3	0 93300000	false positive	-0.66	infinite	4	14
+1	0	93.3	0 93300000	false positive	-0.62	infinite	4	14
+1	0	93.3	0 93300000	false positive	-0.58	infinite	4	14
+1	0	93.3	0 93300000	false positive	-0.54	infinite	4	14
+1	0	93.3	0 93300000	false positive	-0.5	infinite	4	14
+1	0	93.3	0 93300000	false positive	-0.46	infinite	4	14
+1	0	93.3	0 93300000	false positive	-0.42	infinite	4	14
+1	0	93.3	0 93300000	false positive	-1.3	infinite	4	14
+1	0	93.3	0 93300000	false positive	-1.26	infinite	4	14
+1	0	93.3	0 93300000	false positive	-1.22	infinite	4	14
+1	0	93.3	0 93300000	false positive	-1.18	infinite	4	14
+1	0	93.3	0 93300000	false positive	-1.14	infinite	4	14
+1	0	93.3	0 93300000	false positive	-1.1	infinite	4	14
+1	0	93.3	0 93300000	false positive	-1.62	infinite	4	14
+1	0	93.3	0 93300000	false positive	-1.58	infinite	4	14
+1	0	93.3	0 93300000	false positive	-1.54	infinite	4	14
+1	0	93.3	0 93300000	false positive	-1.5	infinite	4	14
+1	0	93.3	0 93300000	false positive	-1.46	infinite	4	14
+1	0	93.3	0 93300000	false positive	-1.42	infinite	4	14
+1	0	93.3	0 93300000	false positive	-1.38	infinite	4	14
+1	0	93.3	0 93300000	false positive	-1.34	infinite	4	14
+1	0	93.3	0 93300000	false positive	-1.7	infinite	4	14
+1	0	93.3	0 93300000	false positive	-1.66	infinite	4	14
+1	0	93.3	0 93300000	false positive	-1.74	infinite	4	14
+1	0	93.3	0 93300000	false positive	-2.1	infinite	4	14
+1	0	93.3	0 93300000	false positive	-2.06	infinite	4	14
+1	0	93.3	0 93300000	false positive	-2.02	infinite	4	14
+1	0	93.3	0 93300000	false positive	-1.98	infinite	4	14
+1	0	93.3	0 93300000	false positive	-1.94	infinite	4	14
+1	0	93.3	0 93300000	false positive	-1.9	infinite	4	14
+1	0	93.3	0 93300000	false positive	-1.86	infinite	4	14
+1	0	93.3	0 93300000	false positive	-1.82	infinite	4	14
+1	0	93.3	0 93300000	false positive	-1.78	infinite	4	14
+0	0	93.3	0 93300000	correct	1.86	finite	5	9
+0	0	93.3	0 93300000	correct	1.9	finite	5	9
+0	0	93.3	0 93300000	correct	1.94	finite	5	9
+0	0	93.3	0 93300000	correct	1.98	finite	5	9
+1	0	93.3	0 93300000	false positive	0.1	finite	5	13
+1	0	93.3	0 93300000	false positive	0.14	finite	5	13
+1	0	93.3	0 93300000	false positive	0.18	finite	5	13
+1	0	93.3	0 93300000	false positive	0.22	finite	5	13
+1	0	93.3	0 93300000	false positive	0.26	finite	5	13
+1	0	93.3	0 93300000	false positive	0.3	finite	5	13
+1	0	93.3	0 93300000	false positive	0.34	finite	5	13
+1	0	93.3	0 93300000	false positive	0.38	finite	5	13
+1	0	93.3	0 93300000	false positive	0.42	finite	5	13
+1	0	93.3	0 93300000	false positive	0.46	finite	5	13
+1	0	93.3	0 93300000	false positive	0.5	finite	5	13
+1	0	93.3	0 93300000	false positive	0.54	finite	5	13
+1	0	93.3	0 93300000	false positive	0.58	finite	5	13
+1	0	93.3	0 93300000	false positive	0.62	finite	5	13
+1	0	93.3	0 93300000	false positive	0.66	finite	5	13
+1	0	93.3	0 93300000	false positive	0.7	finite	5	13
+1	0	93.3	0 93300000	false positive	0.74	finite	5	13
+1	0	93.3	0 93300000	false positive	0.78	finite	5	13
+1	0	93.3	0 93300000	false positive	0.82	finite	5	13
+1	0	93.3	0 93300000	false positive	0.86	finite	5	13
+1	0	93.3	0 93300000	false positive	0.9	finite	5	13
+1	0	93.3	0 93300000	false positive	0.94	finite	5	13
+1	0	93.3	0 93300000	false positive	0.98	finite	5	13
+1	0	93.3	0 93300000	false positive	1.02	finite	5	13
+1	0	93.3	0 93300000	false positive	1.06	finite	5	13
+1	0	93.3	0 93300000	false positive	1.1	finite	5	13
+1	0	93.3	0 93300000	false positive	1.14	finite	5	13
+1	0	93.3	0 93300000	false positive	1.18	finite	5	13
+1	0	93.3	0 93300000	false positive	1.22	finite	5	13
+1	0	93.3	0 93300000	false positive	1.26	finite	5	13
+1	0	93.3	0 93300000	false positive	1.3	finite	5	13
+1	0	93.3	0 93300000	false positive	1.34	finite	5	13
+1	0	93.3	0 93300000	false positive	1.38	finite	5	13
+1	0	93.3	0 93300000	false positive	1.42	finite	5	13
+1	0	93.3	0 93300000	false positive	1.46	finite	5	13
+1	0	93.3	0 93300000	false positive	1.5	finite	5	13
+1	0	93.3	0 93300000	false positive	1.54	finite	5	13
+1	0	93.3	0 93300000	false positive	1.58	finite	5	13
+1	0	93.3	0 93300000	false positive	1.62	finite	5	13
+1	0	93.3	0 93300000	false positive	1.66	finite	5	13
+1	0	93.3	0 93300000	false positive	1.7	finite	5	13
+1	0	93.3	0 93300000	false positive	1.74	finite	5	13
+1	0	93.3	0 93300000	false positive	1.78	finite	5	13
+1	0	93.3	0 93300000	false positive	1.82	finite	5	13
+0	0	93.3	0 93300000	correct	-0.0600000000000001	finite	5	9
+0	0	93.3	0 93300000	correct	-0.02	finite	5	9
+0	0	93.3	0 93300000	correct	0.02	finite	5	9
+0	0	93.3	0 93300000	correct	0.0600000000000001	finite	5	9
+1	0	93.3	0 93300000	false positive	-0.22	finite	5	13
+1	0	93.3	0 93300000	false positive	-0.18	finite	5	13
+1	0	93.3	0 93300000	false positive	-0.14	finite	5	13
+1	0	93.3	0 93300000	false positive	-0.1	finite	5	13
+1	0	93.3	0 93300000	false positive	-0.34	finite	5	13
+1	0	93.3	0 93300000	false positive	-0.3	finite	5	13
+1	0	93.3	0 93300000	false positive	-0.26	finite	5	13
+1	0	93.3	0 93300000	false positive	-0.54	finite	5	13
+1	0	93.3	0 93300000	false positive	-0.5	finite	5	13
+1	0	93.3	0 93300000	false positive	-0.46	finite	5	13
+1	0	93.3	0 93300000	false positive	-0.42	finite	5	13
+1	0	93.3	0 93300000	false positive	-0.38	finite	5	13
+1	0	93.3	0 93300000	false positive	-0.62	finite	5	13
+1	0	93.3	0 93300000	false positive	-0.58	finite	5	13
+1	0	93.3	0 93300000	false positive	-0.66	finite	5	13
+1	0	93.3	0 93300000	false positive	-0.7	finite	5	13
+1	0	93.3	0 93300000	false positive	-2.1	finite	5	13
+1	0	93.3	0 93300000	false positive	-2.06	finite	5	13
+1	0	93.3	0 93300000	false positive	-2.02	finite	5	13
+1	0	93.3	0 93300000	false positive	-1.98	finite	5	13
+1	0	93.3	0 93300000	false positive	-1.94	finite	5	13
+1	0	93.3	0 93300000	false positive	-1.9	finite	5	13
+1	0	93.3	0 93300000	false positive	-1.86	finite	5	13
+1	0	93.3	0 93300000	false positive	-1.82	finite	5	13
+1	0	93.3	0 93300000	false positive	-1.78	finite	5	13
+1	0	93.3	0 93300000	false positive	-1.74	finite	5	13
+1	0	93.3	0 93300000	false positive	-1.7	finite	5	13
+1	0	93.3	0 93300000	false positive	-1.66	finite	5	13
+1	0	93.3	0 93300000	false positive	-1.62	finite	5	13
+1	0	93.3	0 93300000	false positive	-1.58	finite	5	13
+1	0	93.3	0 93300000	false positive	-1.54	finite	5	13
+1	0	93.3	0 93300000	false positive	-1.5	finite	5	13
+1	0	93.3	0 93300000	false positive	-1.46	finite	5	13
+1	0	93.3	0 93300000	false positive	-1.42	finite	5	13
+1	0	93.3	0 93300000	false positive	-1.38	finite	5	13
+1	0	93.3	0 93300000	false positive	-1.34	finite	5	13
+1	0	93.3	0 93300000	false positive	-1.3	finite	5	13
+1	0	93.3	0 93300000	false positive	-1.26	finite	5	13
+1	0	93.3	0 93300000	false positive	-1.22	finite	5	13
+1	0	93.3	0 93300000	false positive	-1.18	finite	5	13
+1	0	93.3	0 93300000	false positive	-1.14	finite	5	13
+1	0	93.3	0 93300000	false positive	-1.1	finite	5	13
+1	0	93.3	0 93300000	false positive	-1.06	finite	5	13
+1	0	93.3	0 93300000	false positive	-1.02	finite	5	13
+1	0	93.3	0 93300000	false positive	-0.98	finite	5	13
+1	0	93.3	0 93300000	false positive	-0.94	finite	5	13
+1	0	93.3	0 93300000	false positive	-0.9	finite	5	13
+1	0	93.3	0 93300000	false positive	-0.86	finite	5	13
+1	0	93.3	0 93300000	false positive	-0.82	finite	5	13
+1	0	93.3	0 93300000	false positive	-0.78	finite	5	13
+1	0	93.3	0 93300000	false positive	-0.74	finite	5	13
+0	0	93.3	0 93300000	correct	-0.1	infinite	6	10
+0	0	93.3	0 93300000	correct	-0.0600000000000001	infinite	6	10
+0	0	93.3	0 93300000	correct	-0.02	infinite	6	10
+0	0	93.3	0 93300000	correct	0.02	infinite	6	10
+0	0	93.3	0 93300000	correct	0.0600000000000001	infinite	6	10
+0	0	93.3	0 93300000	correct	0.1	infinite	6	10
+0	0	93.3	0 93300000	correct	0.14	infinite	6	10
+0	0	93.3	0 93300000	correct	0.18	infinite	6	10
+0	0	93.3	0 93300000	correct	0.22	infinite	6	10
+0	0	93.3	0 93300000	correct	0.26	infinite	6	10
+0	0	93.3	0 93300000	correct	0.3	infinite	6	10
+0	0	93.3	0 93300000	correct	0.34	infinite	6	10
+0	0	93.3	0 93300000	correct	0.38	infinite	6	10
+0	0	93.3	0 93300000	correct	0.42	infinite	6	10
+0	0	93.3	0 93300000	correct	0.46	infinite	6	10
+0	0	93.3	0 93300000	correct	0.5	infinite	6	10
+0	0	93.3	0 93300000	correct	0.54	infinite	6	10
+0	0	93.3	0 93300000	correct	0.58	infinite	6	10
+0	0	93.3	0 93300000	correct	0.62	infinite	6	10
+0	0	93.3	0 93300000	correct	0.66	infinite	6	10
+0	0	93.3	0 93300000	correct	0.7	infinite	6	10
+0	0	93.3	0 93300000	correct	0.74	infinite	6	10
+0	0	93.3	0 93300000	correct	0.78	infinite	6	10
+0	0	93.3	0 93300000	correct	0.82	infinite	6	10
+0	0	93.3	0 93300000	correct	0.86	infinite	6	10
+0	0	93.3	0 93300000	correct	0.9	infinite	6	10
+0	0	93.3	0 93300000	correct	0.94	infinite	6	10
+0	0	93.3	0 93300000	correct	0.98	infinite	6	10
+0	0	93.3	0 93300000	correct	1.02	infinite	6	10
+0	0	93.3	0 93300000	correct	1.06	infinite	6	10
+0	0	93.3	0 93300000	correct	1.1	infinite	6	10
+0	0	93.3	0 93300000	correct	1.14	infinite	6	10
+0	0	93.3	0 93300000	correct	1.18	infinite	6	10
+0	0	93.3	0 93300000	correct	1.22	infinite	6	10
+0	0	93.3	0 93300000	correct	1.26	infinite	6	10
+0	0	93.3	0 93300000	correct	1.3	infinite	6	10
+0	0	93.3	0 93300000	correct	1.34	infinite	6	10
+0	0	93.3	0 93300000	correct	1.38	infinite	6	10
+0	0	93.3	0 93300000	correct	1.42	infinite	6	10
+0	0	93.3	0 93300000	correct	1.46	infinite	6	10
+0	0	93.3	0 93300000	correct	1.5	infinite	6	10
+0	0	93.3	0 93300000	correct	1.54	infinite	6	10
+0	0	93.3	0 93300000	correct	1.58	infinite	6	10
+0	0	93.3	0 93300000	correct	1.62	infinite	6	10
+0	0	93.3	0 93300000	correct	1.66	infinite	6	10
+0	0	93.3	0 93300000	correct	1.7	infinite	6	10
+0	0	93.3	0 93300000	correct	1.74	infinite	6	10
+0	0	93.3	0 93300000	correct	1.78	infinite	6	10
+0	0	93.3	0 93300000	correct	1.82	infinite	6	10
+0	0	93.3	0 93300000	correct	1.86	infinite	6	10
+0	0	93.3	0 93300000	correct	1.9	infinite	6	10
+0	0	93.3	0 93300000	correct	1.94	infinite	6	10
+0	0	93.3	0 93300000	correct	1.98	infinite	6	10
+1	0	93.3	0 93300000	false positive	-1.86	infinite	6	14
+1	0	93.3	0 93300000	false positive	-1.82	infinite	6	14
+1	0	93.3	0 93300000	false positive	-1.78	infinite	6	14
+1	0	93.3	0 93300000	false positive	-1.74	infinite	6	14
+1	0	93.3	0 93300000	false positive	-1.7	infinite	6	14
+1	0	93.3	0 93300000	false positive	-1.66	infinite	6	14
+1	0	93.3	0 93300000	false positive	-1.62	infinite	6	14
+1	0	93.3	0 93300000	false positive	-1.58	infinite	6	14
+1	0	93.3	0 93300000	false positive	-1.54	infinite	6	14
+1	0	93.3	0 93300000	false positive	-1.5	infinite	6	14
+1	0	93.3	0 93300000	false positive	-1.46	infinite	6	14
+1	0	93.3	0 93300000	false positive	-1.42	infinite	6	14
+1	0	93.3	0 93300000	false positive	-1.38	infinite	6	14
+1	0	93.3	0 93300000	false positive	-1.34	infinite	6	14
+1	0	93.3	0 93300000	false positive	-1.3	infinite	6	14
+1	0	93.3	0 93300000	false positive	-1.26	infinite	6	14
+1	0	93.3	0 93300000	false positive	-1.22	infinite	6	14
+1	0	93.3	0 93300000	false positive	-1.18	infinite	6	14
+1	0	93.3	0 93300000	false positive	-1.14	infinite	6	14
+1	0	93.3	0 93300000	false positive	-1.1	infinite	6	14
+1	0	93.3	0 93300000	false positive	-1.06	infinite	6	14
+1	0	93.3	0 93300000	false positive	-1.02	infinite	6	14
+1	0	93.3	0 93300000	false positive	-0.98	infinite	6	14
+1	0	93.3	0 93300000	false positive	-0.94	infinite	6	14
+1	0	93.3	0 93300000	false positive	-0.9	infinite	6	14
+1	0	93.3	0 93300000	false positive	-0.86	infinite	6	14
+1	0	93.3	0 93300000	false positive	-0.82	infinite	6	14
+1	0	93.3	0 93300000	false positive	-0.78	infinite	6	14
+1	0	93.3	0 93300000	false positive	-0.74	infinite	6	14
+1	0	93.3	0 93300000	false positive	-0.7	infinite	6	14
+1	0	93.3	0 93300000	false positive	-0.66	infinite	6	14
+1	0	93.3	0 93300000	false positive	-0.62	infinite	6	14
+1	0	93.3	0 93300000	false positive	-0.58	infinite	6	14
+1	0	93.3	0 93300000	false positive	-0.54	infinite	6	14
+1	0	93.3	0 93300000	false positive	-0.5	infinite	6	14
+1	0	93.3	0 93300000	false positive	-0.46	infinite	6	14
+1	0	93.3	0 93300000	false positive	-0.42	infinite	6	14
+1	0	93.3	0 93300000	false positive	-0.38	infinite	6	14
+1	0	93.3	0 93300000	false positive	-0.34	infinite	6	14
+1	0	93.3	0 93300000	false positive	-0.3	infinite	6	14
+1	0	93.3	0 93300000	false positive	-0.26	infinite	6	14
+1	0	93.3	0 93300000	false positive	-0.22	infinite	6	14
+1	0	93.3	0 93300000	false positive	-0.18	infinite	6	14
+1	0	93.3	0 93300000	false positive	-0.14	infinite	6	14
+1	0	93.3	0 93300000	false positive	-0.1	infinite	6	14
+0	0	93.3	0 93300000	correct	-1.98	infinite	6	10
+0	0	93.3	0 93300000	correct	-1.94	infinite	6	10
+0	0	93.3	0 93300000	correct	-1.9	infinite	6	10
+1	0	93.3	0 93300000	false positive	-2.1	infinite	6	14
+1	0	93.3	0 93300000	false positive	-2.06	infinite	6	14
+1	0	93.3	0 93300000	false positive	-2.02	infinite	6	14
+0	0	91	0 91000000	correct	0.34	finite	7	5
+0	0	91	0 91000000	correct	0.38	finite	7	5
+0	0	91	0 91000000	correct	0.42	finite	7	5
+0	0	91	0 91000000	correct	0.46	finite	7	5
+0	0	91	0 91000000	correct	0.5	finite	7	5
+0	0	91	0 91000000	correct	0.54	finite	7	5
+0	0	91	0 91000000	correct	0.58	finite	7	5
+0	0	91	0 91000000	correct	0.62	finite	7	5
+0	0	91	0 91000000	correct	0.66	finite	7	5
+0	0	91	0 91000000	correct	0.7	finite	7	5
+0	0	91	0 91000000	correct	0.74	finite	7	5
+0	0	91	0 91000000	correct	0.78	finite	7	5
+0	0	91	0 91000000	correct	0.82	finite	7	5
+0	0	91	0 91000000	correct	0.86	finite	7	5
+0	0	91	0 91000000	correct	0.9	finite	7	5
+0	0	91	0 91000000	correct	0.94	finite	7	5
+0	0	91	0 91000000	correct	0.98	finite	7	5
+0	0	91	0 91000000	correct	1.02	finite	7	5
+0	0	91	0 91000000	correct	1.06	finite	7	5
+0	0	91	0 91000000	correct	1.1	finite	7	5
+0	0	91	0 91000000	correct	1.14	finite	7	5
+0	0	91	0 91000000	correct	1.18	finite	7	5
+0	0	91	0 91000000	correct	1.22	finite	7	5
+0	0	91	0 91000000	correct	1.26	finite	7	5
+0	0	91	0 91000000	correct	1.3	finite	7	5
+0	0	91	0 91000000	correct	1.34	finite	7	5
+0	0	91	0 91000000	correct	1.38	finite	7	5
+0	0	91	0 91000000	correct	1.42	finite	7	5
+0	0	91	0 91000000	correct	1.46	finite	7	5
+0	0	91	0 91000000	correct	1.5	finite	7	5
+0	0	91	0 91000000	correct	1.54	finite	7	5
+0	0	91	0 91000000	correct	1.58	finite	7	5
+0	0	91	0 91000000	correct	1.62	finite	7	5
+0	0	91	0 91000000	correct	1.66	finite	7	5
+0	0	91	0 91000000	correct	1.7	finite	7	5
+0	0	91	0 91000000	correct	1.74	finite	7	5
+0	0	91	0 91000000	correct	1.78	finite	7	5
+0	0	91	0 91000000	correct	1.82	finite	7	5
+0	0	91	0 91000000	correct	1.86	finite	7	5
+0	0	91	0 91000000	correct	1.9	finite	7	5
+0	0	91	0 91000000	correct	1.94	finite	7	5
+0	0	91	0 91000000	correct	1.98	finite	7	5
+1	0	91	0 91000000	false positive	0.18	finite	7	7
+1	0	91	0 91000000	false positive	0.22	finite	7	7
+1	0	91	0 91000000	false positive	0.26	finite	7	7
+1	0	91	0 91000000	false positive	0.3	finite	7	7
+0	0	91	0 91000000	correct	-0.14	finite	7	5
+0	0	91	0 91000000	correct	-0.1	finite	7	5
+0	0	91	0 91000000	correct	-0.0600000000000001	finite	7	5
+0	0	91	0 91000000	correct	-0.02	finite	7	5
+0	0	91	0 91000000	correct	0.02	finite	7	5
+0	0	91	0 91000000	correct	0.0600000000000001	finite	7	5
+0	0	91	0 91000000	correct	0.1	finite	7	5
+0	0	91	0 91000000	correct	0.14	finite	7	5
+1	0	91	0 91000000	false positive	-0.66	finite	7	7
+1	0	91	0 91000000	false positive	-0.62	finite	7	7
+1	0	91	0 91000000	false positive	-0.58	finite	7	7
+1	0	91	0 91000000	false positive	-0.54	finite	7	7
+1	0	91	0 91000000	false positive	-0.5	finite	7	7
+1	0	91	0 91000000	false positive	-0.46	finite	7	7
+1	0	91	0 91000000	false positive	-0.42	finite	7	7
+1	0	91	0 91000000	false positive	-0.38	finite	7	7
+1	0	91	0 91000000	false positive	-0.34	finite	7	7
+1	0	91	0 91000000	false positive	-0.3	finite	7	7
+1	0	91	0 91000000	false positive	-0.26	finite	7	7
+1	0	91	0 91000000	false positive	-0.22	finite	7	7
+1	0	91	0 91000000	false positive	-0.18	finite	7	7
+1	0	91	0 91000000	false positive	-0.98	finite	7	7
+1	0	91	0 91000000	false positive	-0.94	finite	7	7
+1	0	91	0 91000000	false positive	-0.9	finite	7	7
+1	0	91	0 91000000	false positive	-0.86	finite	7	7
+1	0	91	0 91000000	false positive	-0.82	finite	7	7
+1	0	91	0 91000000	false positive	-0.78	finite	7	7
+1	0	91	0 91000000	false positive	-0.74	finite	7	7
+1	0	91	0 91000000	false positive	-0.7	finite	7	7
+1	0	91	0 91000000	false positive	-1.02	finite	7	7
+1	0	91	0 91000000	false positive	-1.1	finite	7	7
+1	0	91	0 91000000	false positive	-1.06	finite	7	7
+1	0	91	0 91000000	false positive	-1.34	finite	7	7
+1	0	91	0 91000000	false positive	-1.3	finite	7	7
+1	0	91	0 91000000	false positive	-1.26	finite	7	7
+1	0	91	0 91000000	false positive	-1.22	finite	7	7
+1	0	91	0 91000000	false positive	-1.18	finite	7	7
+1	0	91	0 91000000	false positive	-1.14	finite	7	7
+1	0	91	0 91000000	false positive	-1.42	finite	7	7
+1	0	91	0 91000000	false positive	-1.38	finite	7	7
+1	0	91	0 91000000	false positive	-2.1	finite	7	7
+1	0	91	0 91000000	false positive	-2.06	finite	7	7
+1	0	91	0 91000000	false positive	-2.02	finite	7	7
+1	0	91	0 91000000	false positive	-1.98	finite	7	7
+1	0	91	0 91000000	false positive	-1.94	finite	7	7
+1	0	91	0 91000000	false positive	-1.9	finite	7	7
+1	0	91	0 91000000	false positive	-1.86	finite	7	7
+1	0	91	0 91000000	false positive	-1.82	finite	7	7
+1	0	91	0 91000000	false positive	-1.78	finite	7	7
+1	0	91	0 91000000	false positive	-1.74	finite	7	7
+1	0	91	0 91000000	false positive	-1.7	finite	7	7
+1	0	91	0 91000000	false positive	-1.66	finite	7	7
+1	0	91	0 91000000	false positive	-1.62	finite	7	7
+1	0	91	0 91000000	false positive	-1.58	finite	7	7
+1	0	91	0 91000000	false positive	-1.54	finite	7	7
+1	0	91	0 91000000	false positive	-1.5	finite	7	7
+1	0	91	0 91000000	false positive	-1.46	finite	7	7
+0	0	91	0 91000000	correct	-0.1	infinite	8	6
+0	0	91	0 91000000	correct	-0.0600000000000001	infinite	8	6
+0	0	91	0 91000000	correct	-0.02	infinite	8	6
+0	0	91	0 91000000	correct	0.02	infinite	8	6
+0	0	91	0 91000000	correct	0.0600000000000001	infinite	8	6
+0	0	91	0 91000000	correct	0.1	infinite	8	6
+0	0	91	0 91000000	correct	0.14	infinite	8	6
+0	0	91	0 91000000	correct	0.18	infinite	8	6
+0	0	91	0 91000000	correct	0.22	infinite	8	6
+0	0	91	0 91000000	correct	0.26	infinite	8	6
+0	0	91	0 91000000	correct	0.3	infinite	8	6
+0	0	91	0 91000000	correct	0.34	infinite	8	6
+0	0	91	0 91000000	correct	0.38	infinite	8	6
+0	0	91	0 91000000	correct	0.42	infinite	8	6
+0	0	91	0 91000000	correct	0.46	infinite	8	6
+0	0	91	0 91000000	correct	0.5	infinite	8	6
+0	0	91	0 91000000	correct	0.54	infinite	8	6
+0	0	91	0 91000000	correct	0.58	infinite	8	6
+0	0	91	0 91000000	correct	0.62	infinite	8	6
+0	0	91	0 91000000	correct	0.66	infinite	8	6
+0	0	91	0 91000000	correct	0.7	infinite	8	6
+0	0	91	0 91000000	correct	0.74	infinite	8	6
+0	0	91	0 91000000	correct	0.78	infinite	8	6
+0	0	91	0 91000000	correct	0.82	infinite	8	6
+0	0	91	0 91000000	correct	0.86	infinite	8	6
+0	0	91	0 91000000	correct	0.9	infinite	8	6
+0	0	91	0 91000000	correct	0.94	infinite	8	6
+0	0	91	0 91000000	correct	0.98	infinite	8	6
+0	0	91	0 91000000	correct	1.02	infinite	8	6
+0	0	91	0 91000000	correct	1.06	infinite	8	6
+0	0	91	0 91000000	correct	1.1	infinite	8	6
+0	0	91	0 91000000	correct	1.14	infinite	8	6
+0	0	91	0 91000000	correct	1.18	infinite	8	6
+0	0	91	0 91000000	correct	1.22	infinite	8	6
+0	0	91	0 91000000	correct	1.26	infinite	8	6
+0	0	91	0 91000000	correct	1.3	infinite	8	6
+0	0	91	0 91000000	correct	1.34	infinite	8	6
+0	0	91	0 91000000	correct	1.38	infinite	8	6
+0	0	91	0 91000000	correct	1.42	infinite	8	6
+0	0	91	0 91000000	correct	1.46	infinite	8	6
+0	0	91	0 91000000	correct	1.5	infinite	8	6
+0	0	91	0 91000000	correct	1.54	infinite	8	6
+0	0	91	0 91000000	correct	1.58	infinite	8	6
+0	0	91	0 91000000	correct	1.62	infinite	8	6
+0	0	91	0 91000000	correct	1.66	infinite	8	6
+0	0	91	0 91000000	correct	1.7	infinite	8	6
+0	0	91	0 91000000	correct	1.74	infinite	8	6
+0	0	91	0 91000000	correct	1.78	infinite	8	6
+0	0	91	0 91000000	correct	1.82	infinite	8	6
+0	0	91	0 91000000	correct	1.86	infinite	8	6
+0	0	91	0 91000000	correct	1.9	infinite	8	6
+0	0	91	0 91000000	correct	1.94	infinite	8	6
+0	0	91	0 91000000	correct	1.98	infinite	8	6
+1	0	91	0 91000000	false positive	-0.26	infinite	8	8
+1	0	91	0 91000000	false positive	-0.22	infinite	8	8
+1	0	91	0 91000000	false positive	-0.18	infinite	8	8
+1	0	91	0 91000000	false positive	-0.14	infinite	8	8
+1	0	91	0 91000000	false positive	-0.1	infinite	8	8
+0	0	91	0 91000000	correct	-0.58	infinite	8	6
+0	0	91	0 91000000	correct	-0.54	infinite	8	6
+0	0	91	0 91000000	correct	-0.5	infinite	8	6
+0	0	91	0 91000000	correct	-0.46	infinite	8	6
+0	0	91	0 91000000	correct	-0.42	infinite	8	6
+0	0	91	0 91000000	correct	-0.38	infinite	8	6
+0	0	91	0 91000000	correct	-0.34	infinite	8	6
+0	0	91	0 91000000	correct	-0.3	infinite	8	6
+1	0	91	0 91000000	false positive	-1.1	infinite	8	8
+1	0	91	0 91000000	false positive	-1.06	infinite	8	8
+1	0	91	0 91000000	false positive	-1.02	infinite	8	8
+1	0	91	0 91000000	false positive	-0.98	infinite	8	8
+1	0	91	0 91000000	false positive	-0.94	infinite	8	8
+1	0	91	0 91000000	false positive	-0.9	infinite	8	8
+1	0	91	0 91000000	false positive	-0.86	infinite	8	8
+1	0	91	0 91000000	false positive	-0.82	infinite	8	8
+1	0	91	0 91000000	false positive	-0.78	infinite	8	8
+1	0	91	0 91000000	false positive	-0.74	infinite	8	8
+1	0	91	0 91000000	false positive	-0.7	infinite	8	8
+1	0	91	0 91000000	false positive	-0.66	infinite	8	8
+1	0	91	0 91000000	false positive	-0.62	infinite	8	8
+1	0	91	0 91000000	false positive	-1.42	infinite	8	8
+1	0	91	0 91000000	false positive	-1.38	infinite	8	8
+1	0	91	0 91000000	false positive	-1.34	infinite	8	8
+1	0	91	0 91000000	false positive	-1.3	infinite	8	8
+1	0	91	0 91000000	false positive	-1.26	infinite	8	8
+1	0	91	0 91000000	false positive	-1.22	infinite	8	8
+1	0	91	0 91000000	false positive	-1.18	infinite	8	8
+1	0	91	0 91000000	false positive	-1.14	infinite	8	8
+1	0	91	0 91000000	false positive	-1.46	infinite	8	8
+1	0	91	0 91000000	false positive	-1.54	infinite	8	8
+1	0	91	0 91000000	false positive	-1.5	infinite	8	8
+1	0	91	0 91000000	false positive	-1.78	infinite	8	8
+1	0	91	0 91000000	false positive	-1.74	infinite	8	8
+1	0	91	0 91000000	false positive	-1.7	infinite	8	8
+1	0	91	0 91000000	false positive	-1.66	infinite	8	8
+1	0	91	0 91000000	false positive	-1.62	infinite	8	8
+1	0	91	0 91000000	false positive	-1.58	infinite	8	8
+1	0	91	0 91000000	false positive	-1.82	infinite	8	8
+1	0	91	0 91000000	false positive	-2.1	infinite	8	8
+1	0	91	0 91000000	false positive	-2.06	infinite	8	8
+1	0	91	0 91000000	false positive	-2.02	infinite	8	8
+1	0	91	0 91000000	false positive	-1.98	infinite	8	8
+1	0	91	0 91000000	false positive	-1.94	infinite	8	8
+1	0	91	0 91000000	false positive	-1.9	infinite	8	8
+1	0	91	0 91000000	false positive	-1.86	infinite	8	8
+0	0	50.4	0 50400000	correct	0.7	finite	9	1
+0	0	50.4	0 50400000	correct	0.74	finite	9	1
+0	0	50.4	0 50400000	correct	0.78	finite	9	1
+0	0	50.4	0 50400000	correct	0.82	finite	9	1
+0	0	50.4	0 50400000	correct	0.86	finite	9	1
+0	0	50.4	0 50400000	correct	0.9	finite	9	1
+0	0	50.4	0 50400000	correct	0.94	finite	9	1
+0	0	50.4	0 50400000	correct	0.98	finite	9	1
+0	0	50.4	0 50400000	correct	1.02	finite	9	1
+0	0	50.4	0 50400000	correct	1.06	finite	9	1
+0	0	50.4	0 50400000	correct	1.1	finite	9	1
+0	0	50.4	0 50400000	correct	1.14	finite	9	1
+0	0	50.4	0 50400000	correct	1.18	finite	9	1
+0	0	50.4	0 50400000	correct	1.22	finite	9	1
+0	0	50.4	0 50400000	correct	1.26	finite	9	1
+0	0	50.4	0 50400000	correct	1.3	finite	9	1
+0	0	50.4	0 50400000	correct	1.34	finite	9	1
+0	0	50.4	0 50400000	correct	1.38	finite	9	1
+0	0	50.4	0 50400000	correct	1.42	finite	9	1
+0	0	50.4	0 50400000	correct	1.46	finite	9	1
+0	0	50.4	0 50400000	correct	1.5	finite	9	1
+0	0	50.4	0 50400000	correct	1.54	finite	9	1
+0	0	50.4	0 50400000	correct	1.58	finite	9	1
+0	0	50.4	0 50400000	correct	1.62	finite	9	1
+0	0	50.4	0 50400000	correct	1.66	finite	9	1
+0	0	50.4	0 50400000	correct	1.7	finite	9	1
+0	0	50.4	0 50400000	correct	1.74	finite	9	1
+0	0	50.4	0 50400000	correct	1.78	finite	9	1
+0	0	50.4	0 50400000	correct	1.82	finite	9	1
+0	0	50.4	0 50400000	correct	1.86	finite	9	1
+0	0	50.4	0 50400000	correct	1.9	finite	9	1
+0	0	50.4	0 50400000	correct	1.94	finite	9	1
+0	0	50.4	0 50400000	correct	1.98	finite	9	1
+0	0	50.4	0 50400000	correct	0.38	finite	9	1
+0	0	50.4	0 50400000	correct	0.42	finite	9	1
+0	0	50.4	0 50400000	correct	0.46	finite	9	1
+0	0	50.4	0 50400000	correct	0.5	finite	9	1
+0	0	50.4	0 50400000	correct	0.54	finite	9	1
+0	0	50.4	0 50400000	correct	0.58	finite	9	1
+0	0	50.4	0 50400000	correct	0.62	finite	9	1
+0	0	50.4	0 50400000	correct	0.66	finite	9	1
+1	0	50.4	0 50400000	false positive	0.0600000000000001	finite	9	3
+1	0	50.4	0 50400000	false positive	0.1	finite	9	3
+1	0	50.4	0 50400000	false positive	0.14	finite	9	3
+1	0	50.4	0 50400000	false positive	0.18	finite	9	3
+1	0	50.4	0 50400000	false positive	0.22	finite	9	3
+1	0	50.4	0 50400000	false positive	0.26	finite	9	3
+1	0	50.4	0 50400000	false positive	0.3	finite	9	3
+1	0	50.4	0 50400000	false positive	0.34	finite	9	3
+0	0	50.4	0 50400000	correct	-0.02	finite	9	1
+0	0	50.4	0 50400000	correct	0.02	finite	9	1
+1	0	50.4	0 50400000	false positive	-0.22	finite	9	3
+1	0	50.4	0 50400000	false positive	-0.18	finite	9	3
+1	0	50.4	0 50400000	false positive	-0.14	finite	9	3
+1	0	50.4	0 50400000	false positive	-0.1	finite	9	3
+1	0	50.4	0 50400000	false positive	-0.0600000000000001	finite	9	3
+1	0	50.4	0 50400000	false positive	-0.86	finite	9	3
+1	0	50.4	0 50400000	false positive	-0.82	finite	9	3
+1	0	50.4	0 50400000	false positive	-0.78	finite	9	3
+1	0	50.4	0 50400000	false positive	-0.74	finite	9	3
+1	0	50.4	0 50400000	false positive	-0.7	finite	9	3
+1	0	50.4	0 50400000	false positive	-0.66	finite	9	3
+1	0	50.4	0 50400000	false positive	-0.62	finite	9	3
+1	0	50.4	0 50400000	false positive	-0.58	finite	9	3
+1	0	50.4	0 50400000	false positive	-0.54	finite	9	3
+1	0	50.4	0 50400000	false positive	-0.5	finite	9	3
+1	0	50.4	0 50400000	false positive	-0.46	finite	9	3
+1	0	50.4	0 50400000	false positive	-0.42	finite	9	3
+1	0	50.4	0 50400000	false positive	-0.38	finite	9	3
+1	0	50.4	0 50400000	false positive	-0.34	finite	9	3
+1	0	50.4	0 50400000	false positive	-0.3	finite	9	3
+1	0	50.4	0 50400000	false positive	-0.26	finite	9	3
+1	0	50.4	0 50400000	false positive	-1.3	finite	9	3
+1	0	50.4	0 50400000	false positive	-1.26	finite	9	3
+1	0	50.4	0 50400000	false positive	-1.22	finite	9	3
+1	0	50.4	0 50400000	false positive	-1.18	finite	9	3
+1	0	50.4	0 50400000	false positive	-1.14	finite	9	3
+1	0	50.4	0 50400000	false positive	-1.1	finite	9	3
+1	0	50.4	0 50400000	false positive	-1.06	finite	9	3
+1	0	50.4	0 50400000	false positive	-1.02	finite	9	3
+1	0	50.4	0 50400000	false positive	-0.98	finite	9	3
+1	0	50.4	0 50400000	false positive	-0.94	finite	9	3
+1	0	50.4	0 50400000	false positive	-0.9	finite	9	3
+1	0	50.4	0 50400000	false positive	-1.38	finite	9	3
+1	0	50.4	0 50400000	false positive	-1.34	finite	9	3
+1	0	50.4	0 50400000	false positive	-1.54	finite	9	3
+1	0	50.4	0 50400000	false positive	-1.5	finite	9	3
+1	0	50.4	0 50400000	false positive	-1.46	finite	9	3
+1	0	50.4	0 50400000	false positive	-1.42	finite	9	3
+1	0	50.4	0 50400000	false positive	-1.7	finite	9	3
+1	0	50.4	0 50400000	false positive	-1.66	finite	9	3
+1	0	50.4	0 50400000	false positive	-1.62	finite	9	3
+1	0	50.4	0 50400000	false positive	-1.58	finite	9	3
+1	0	50.4	0 50400000	false positive	-2.1	finite	9	3
+1	0	50.4	0 50400000	false positive	-2.06	finite	9	3
+1	0	50.4	0 50400000	false positive	-2.02	finite	9	3
+1	0	50.4	0 50400000	false positive	-1.98	finite	9	3
+1	0	50.4	0 50400000	false positive	-1.94	finite	9	3
+1	0	50.4	0 50400000	false positive	-1.9	finite	9	3
+1	0	50.4	0 50400000	false positive	-1.86	finite	9	3
+1	0	50.4	0 50400000	false positive	-1.82	finite	9	3
+1	0	50.4	0 50400000	false positive	-1.78	finite	9	3
+1	0	50.4	0 50400000	false positive	-1.74	finite	9	3
+0	0	50.4	0 50400000	correct	0.22	infinite	10	2
+0	0	50.4	0 50400000	correct	0.26	infinite	10	2
+0	0	50.4	0 50400000	correct	0.3	infinite	10	2
+0	0	50.4	0 50400000	correct	0.34	infinite	10	2
+0	0	50.4	0 50400000	correct	0.38	infinite	10	2
+0	0	50.4	0 50400000	correct	0.42	infinite	10	2
+0	0	50.4	0 50400000	correct	0.46	infinite	10	2
+0	0	50.4	0 50400000	correct	0.5	infinite	10	2
+0	0	50.4	0 50400000	correct	0.54	infinite	10	2
+0	0	50.4	0 50400000	correct	0.58	infinite	10	2
+0	0	50.4	0 50400000	correct	0.62	infinite	10	2
+0	0	50.4	0 50400000	correct	0.66	infinite	10	2
+0	0	50.4	0 50400000	correct	0.7	infinite	10	2
+0	0	50.4	0 50400000	correct	0.74	infinite	10	2
+0	0	50.4	0 50400000	correct	0.78	infinite	10	2
+0	0	50.4	0 50400000	correct	0.82	infinite	10	2
+0	0	50.4	0 50400000	correct	0.86	infinite	10	2
+0	0	50.4	0 50400000	correct	0.9	infinite	10	2
+0	0	50.4	0 50400000	correct	0.94	infinite	10	2
+0	0	50.4	0 50400000	correct	0.98	infinite	10	2
+0	0	50.4	0 50400000	correct	1.02	infinite	10	2
+0	0	50.4	0 50400000	correct	1.06	infinite	10	2
+0	0	50.4	0 50400000	correct	1.1	infinite	10	2
+0	0	50.4	0 50400000	correct	1.14	infinite	10	2
+0	0	50.4	0 50400000	correct	1.18	infinite	10	2
+0	0	50.4	0 50400000	correct	1.22	infinite	10	2
+0	0	50.4	0 50400000	correct	1.26	infinite	10	2
+0	0	50.4	0 50400000	correct	1.3	infinite	10	2
+0	0	50.4	0 50400000	correct	1.34	infinite	10	2
+0	0	50.4	0 50400000	correct	1.38	infinite	10	2
+0	0	50.4	0 50400000	correct	1.42	infinite	10	2
+0	0	50.4	0 50400000	correct	1.46	infinite	10	2
+0	0	50.4	0 50400000	correct	1.5	infinite	10	2
+0	0	50.4	0 50400000	correct	1.54	infinite	10	2
+0	0	50.4	0 50400000	correct	1.58	infinite	10	2
+0	0	50.4	0 50400000	correct	1.62	infinite	10	2
+0	0	50.4	0 50400000	correct	1.66	infinite	10	2
+0	0	50.4	0 50400000	correct	1.7	infinite	10	2
+0	0	50.4	0 50400000	correct	1.74	infinite	10	2
+0	0	50.4	0 50400000	correct	1.78	infinite	10	2
+0	0	50.4	0 50400000	correct	1.82	infinite	10	2
+0	0	50.4	0 50400000	correct	1.86	infinite	10	2
+0	0	50.4	0 50400000	correct	1.9	infinite	10	2
+0	0	50.4	0 50400000	correct	1.94	infinite	10	2
+0	0	50.4	0 50400000	correct	1.98	infinite	10	2
+0	0	50.4	0 50400000	correct	-0.1	infinite	10	2
+0	0	50.4	0 50400000	correct	-0.0600000000000001	infinite	10	2
+0	0	50.4	0 50400000	correct	-0.02	infinite	10	2
+0	0	50.4	0 50400000	correct	0.02	infinite	10	2
+0	0	50.4	0 50400000	correct	0.0600000000000001	infinite	10	2
+0	0	50.4	0 50400000	correct	0.1	infinite	10	2
+0	0	50.4	0 50400000	correct	0.14	infinite	10	2
+0	0	50.4	0 50400000	correct	0.18	infinite	10	2
+1	0	50.4	0 50400000	false positive	-0.42	infinite	10	4
+1	0	50.4	0 50400000	false positive	-0.38	infinite	10	4
+1	0	50.4	0 50400000	false positive	-0.34	infinite	10	4
+1	0	50.4	0 50400000	false positive	-0.3	infinite	10	4
+1	0	50.4	0 50400000	false positive	-0.26	infinite	10	4
+1	0	50.4	0 50400000	false positive	-0.22	infinite	10	4
+1	0	50.4	0 50400000	false positive	-0.18	infinite	10	4
+1	0	50.4	0 50400000	false positive	-0.14	infinite	10	4
+1	0	50.4	0 50400000	false positive	-0.1	infinite	10	4
+0	0	50.4	0 50400000	correct	-0.5	infinite	10	2
+0	0	50.4	0 50400000	correct	-0.46	infinite	10	2
+1	0	50.4	0 50400000	false positive	-0.7	infinite	10	4
+1	0	50.4	0 50400000	false positive	-0.66	infinite	10	4
+1	0	50.4	0 50400000	false positive	-0.62	infinite	10	4
+1	0	50.4	0 50400000	false positive	-0.58	infinite	10	4
+1	0	50.4	0 50400000	false positive	-0.54	infinite	10	4
+1	0	50.4	0 50400000	false positive	-1.34	infinite	10	4
+1	0	50.4	0 50400000	false positive	-1.3	infinite	10	4
+1	0	50.4	0 50400000	false positive	-1.26	infinite	10	4
+1	0	50.4	0 50400000	false positive	-1.22	infinite	10	4
+1	0	50.4	0 50400000	false positive	-1.18	infinite	10	4
+1	0	50.4	0 50400000	false positive	-1.14	infinite	10	4
+1	0	50.4	0 50400000	false positive	-1.1	infinite	10	4
+1	0	50.4	0 50400000	false positive	-1.06	infinite	10	4
+1	0	50.4	0 50400000	false positive	-1.02	infinite	10	4
+1	0	50.4	0 50400000	false positive	-0.98	infinite	10	4
+1	0	50.4	0 50400000	false positive	-0.94	infinite	10	4
+1	0	50.4	0 50400000	false positive	-0.9	infinite	10	4
+1	0	50.4	0 50400000	false positive	-0.86	infinite	10	4
+1	0	50.4	0 50400000	false positive	-0.82	infinite	10	4
+1	0	50.4	0 50400000	false positive	-0.78	infinite	10	4
+1	0	50.4	0 50400000	false positive	-0.74	infinite	10	4
+1	0	50.4	0 50400000	false positive	-1.78	infinite	10	4
+1	0	50.4	0 50400000	false positive	-1.74	infinite	10	4
+1	0	50.4	0 50400000	false positive	-1.7	infinite	10	4
+1	0	50.4	0 50400000	false positive	-1.66	infinite	10	4
+1	0	50.4	0 50400000	false positive	-1.62	infinite	10	4
+1	0	50.4	0 50400000	false positive	-1.58	infinite	10	4
+1	0	50.4	0 50400000	false positive	-1.54	infinite	10	4
+1	0	50.4	0 50400000	false positive	-1.5	infinite	10	4
+1	0	50.4	0 50400000	false positive	-1.46	infinite	10	4
+1	0	50.4	0 50400000	false positive	-1.42	infinite	10	4
+1	0	50.4	0 50400000	false positive	-1.38	infinite	10	4
+1	0	50.4	0 50400000	false positive	-1.86	infinite	10	4
+1	0	50.4	0 50400000	false positive	-1.82	infinite	10	4
+1	0	50.4	0 50400000	false positive	-2.02	infinite	10	4
+1	0	50.4	0 50400000	false positive	-1.98	infinite	10	4
+1	0	50.4	0 50400000	false positive	-1.94	infinite	10	4
+1	0	50.4	0 50400000	false positive	-1.9	infinite	10	4
+1	0	50.4	0 50400000	false positive	-2.1	infinite	10	4
+1	0	50.4	0 50400000	false positive	-2.06	infinite	10	4
+0	0	93.3	0 93300000	correct	0.66	finite	11	9
+0	0	93.3	0 93300000	correct	0.7	finite	11	9
+0	0	93.3	0 93300000	correct	0.74	finite	11	9
+0	0	93.3	0 93300000	correct	0.78	finite	11	9
+0	0	93.3	0 93300000	correct	0.82	finite	11	9
+0	0	93.3	0 93300000	correct	0.86	finite	11	9
+0	0	93.3	0 93300000	correct	0.9	finite	11	9
+0	0	93.3	0 93300000	correct	0.94	finite	11	9
+0	0	93.3	0 93300000	correct	0.98	finite	11	9
+0	0	93.3	0 93300000	correct	1.02	finite	11	9
+0	0	93.3	0 93300000	correct	1.06	finite	11	9
+0	0	93.3	0 93300000	correct	1.1	finite	11	9
+0	0	93.3	0 93300000	correct	1.14	finite	11	9
+0	0	93.3	0 93300000	correct	1.18	finite	11	9
+0	0	93.3	0 93300000	correct	1.22	finite	11	9
+0	0	93.3	0 93300000	correct	1.26	finite	11	9
+0	0	93.3	0 93300000	correct	1.3	finite	11	9
+0	0	93.3	0 93300000	correct	1.34	finite	11	9
+0	0	93.3	0 93300000	correct	1.38	finite	11	9
+0	0	93.3	0 93300000	correct	1.42	finite	11	9
+0	0	93.3	0 93300000	correct	1.46	finite	11	9
+0	0	93.3	0 93300000	correct	1.5	finite	11	9
+0	0	93.3	0 93300000	correct	1.54	finite	11	9
+0	0	93.3	0 93300000	correct	1.58	finite	11	9
+0	0	93.3	0 93300000	correct	1.62	finite	11	9
+0	0	93.3	0 93300000	correct	1.66	finite	11	9
+0	0	93.3	0 93300000	correct	1.7	finite	11	9
+0	0	93.3	0 93300000	correct	1.74	finite	11	9
+0	0	93.3	0 93300000	correct	1.78	finite	11	9
+0	0	93.3	0 93300000	correct	1.82	finite	11	9
+0	0	93.3	0 93300000	correct	1.86	finite	11	9
+0	0	93.3	0 93300000	correct	1.9	finite	11	9
+0	0	93.3	0 93300000	correct	1.94	finite	11	9
+0	0	93.3	0 93300000	correct	1.98	finite	11	9
+0	0	93.3	0 93300000	correct	0.14	finite	11	9
+0	0	93.3	0 93300000	correct	0.18	finite	11	9
+0	0	93.3	0 93300000	correct	0.22	finite	11	9
+0	0	93.3	0 93300000	correct	0.26	finite	11	9
+0	0	93.3	0 93300000	correct	0.3	finite	11	9
+0	0	93.3	0 93300000	correct	0.34	finite	11	9
+0	0	93.3	0 93300000	correct	0.38	finite	11	9
+0	0	93.3	0 93300000	correct	0.42	finite	11	9
+0	0	93.3	0 93300000	correct	0.46	finite	11	9
+0	0	93.3	0 93300000	correct	0.5	finite	11	9
+0	0	93.3	0 93300000	correct	0.54	finite	11	9
+0	0	93.3	0 93300000	correct	0.58	finite	11	9
+0	0	93.3	0 93300000	correct	0.62	finite	11	9
+1	0	93.3	0 93300000	false positive	0.0600000000000001	finite	11	13
+1	0	93.3	0 93300000	false positive	0.1	finite	11	13
+0	0	93.3	0 93300000	correct	-0.02	finite	11	9
+0	0	93.3	0 93300000	correct	0.02	finite	11	9
+1	0	93.3	0 93300000	false positive	-0.66	finite	11	13
+1	0	93.3	0 93300000	false positive	-0.62	finite	11	13
+1	0	93.3	0 93300000	false positive	-0.58	finite	11	13
+1	0	93.3	0 93300000	false positive	-0.54	finite	11	13
+1	0	93.3	0 93300000	false positive	-0.5	finite	11	13
+1	0	93.3	0 93300000	false positive	-0.46	finite	11	13
+1	0	93.3	0 93300000	false positive	-0.42	finite	11	13
+1	0	93.3	0 93300000	false positive	-0.38	finite	11	13
+1	0	93.3	0 93300000	false positive	-0.34	finite	11	13
+1	0	93.3	0 93300000	false positive	-0.3	finite	11	13
+1	0	93.3	0 93300000	false positive	-0.26	finite	11	13
+1	0	93.3	0 93300000	false positive	-0.22	finite	11	13
+1	0	93.3	0 93300000	false positive	-0.18	finite	11	13
+1	0	93.3	0 93300000	false positive	-0.14	finite	11	13
+1	0	93.3	0 93300000	false positive	-0.1	finite	11	13
+1	0	93.3	0 93300000	false positive	-0.0600000000000001	finite	11	13
+1	0	93.3	0 93300000	false positive	-0.7	finite	11	13
+1	0	93.3	0 93300000	false positive	-1.1	finite	11	13
+1	0	93.3	0 93300000	false positive	-1.06	finite	11	13
+1	0	93.3	0 93300000	false positive	-1.02	finite	11	13
+1	0	93.3	0 93300000	false positive	-0.98	finite	11	13
+1	0	93.3	0 93300000	false positive	-0.94	finite	11	13
+1	0	93.3	0 93300000	false positive	-0.9	finite	11	13
+1	0	93.3	0 93300000	false positive	-0.86	finite	11	13
+1	0	93.3	0 93300000	false positive	-0.82	finite	11	13
+1	0	93.3	0 93300000	false positive	-0.78	finite	11	13
+1	0	93.3	0 93300000	false positive	-0.74	finite	11	13
+1	0	93.3	0 93300000	false positive	-1.18	finite	11	13
+1	0	93.3	0 93300000	false positive	-1.14	finite	11	13
+1	0	93.3	0 93300000	false positive	-1.5	finite	11	13
+1	0	93.3	0 93300000	false positive	-1.46	finite	11	13
+1	0	93.3	0 93300000	false positive	-1.42	finite	11	13
+1	0	93.3	0 93300000	false positive	-1.38	finite	11	13
+1	0	93.3	0 93300000	false positive	-1.34	finite	11	13
+1	0	93.3	0 93300000	false positive	-1.3	finite	11	13
+1	0	93.3	0 93300000	false positive	-1.26	finite	11	13
+1	0	93.3	0 93300000	false positive	-1.22	finite	11	13
+1	0	93.3	0 93300000	false positive	-1.66	finite	11	13
+1	0	93.3	0 93300000	false positive	-1.62	finite	11	13
+1	0	93.3	0 93300000	false positive	-1.58	finite	11	13
+1	0	93.3	0 93300000	false positive	-1.54	finite	11	13
+1	0	93.3	0 93300000	false positive	-1.7	finite	11	13
+1	0	93.3	0 93300000	false positive	-1.78	finite	11	13
+1	0	93.3	0 93300000	false positive	-1.74	finite	11	13
+1	0	93.3	0 93300000	false positive	-2.1	finite	11	13
+1	0	93.3	0 93300000	false positive	-2.06	finite	11	13
+1	0	93.3	0 93300000	false positive	-2.02	finite	11	13
+1	0	93.3	0 93300000	false positive	-1.98	finite	11	13
+1	0	93.3	0 93300000	false positive	-1.94	finite	11	13
+1	0	93.3	0 93300000	false positive	-1.9	finite	11	13
+1	0	93.3	0 93300000	false positive	-1.86	finite	11	13
+1	0	93.3	0 93300000	false positive	-1.82	finite	11	13
+0	0	93.3	0 93300000	correct	0.42	infinite	12	10
+0	0	93.3	0 93300000	correct	0.46	infinite	12	10
+0	0	93.3	0 93300000	correct	0.5	infinite	12	10
+0	0	93.3	0 93300000	correct	0.54	infinite	12	10
+0	0	93.3	0 93300000	correct	0.58	infinite	12	10
+0	0	93.3	0 93300000	correct	0.62	infinite	12	10
+0	0	93.3	0 93300000	correct	0.66	infinite	12	10
+0	0	93.3	0 93300000	correct	0.7	infinite	12	10
+0	0	93.3	0 93300000	correct	0.74	infinite	12	10
+0	0	93.3	0 93300000	correct	0.78	infinite	12	10
+0	0	93.3	0 93300000	correct	0.82	infinite	12	10
+0	0	93.3	0 93300000	correct	0.86	infinite	12	10
+0	0	93.3	0 93300000	correct	0.9	infinite	12	10
+0	0	93.3	0 93300000	correct	0.94	infinite	12	10
+0	0	93.3	0 93300000	correct	0.98	infinite	12	10
+0	0	93.3	0 93300000	correct	1.02	infinite	12	10
+0	0	93.3	0 93300000	correct	1.06	infinite	12	10
+0	0	93.3	0 93300000	correct	1.1	infinite	12	10
+0	0	93.3	0 93300000	correct	1.14	infinite	12	10
+0	0	93.3	0 93300000	correct	1.18	infinite	12	10
+0	0	93.3	0 93300000	correct	1.22	infinite	12	10
+0	0	93.3	0 93300000	correct	1.26	infinite	12	10
+0	0	93.3	0 93300000	correct	1.3	infinite	12	10
+0	0	93.3	0 93300000	correct	1.34	infinite	12	10
+0	0	93.3	0 93300000	correct	1.38	infinite	12	10
+0	0	93.3	0 93300000	correct	1.42	infinite	12	10
+0	0	93.3	0 93300000	correct	1.46	infinite	12	10
+0	0	93.3	0 93300000	correct	1.5	infinite	12	10
+0	0	93.3	0 93300000	correct	1.54	infinite	12	10
+0	0	93.3	0 93300000	correct	1.58	infinite	12	10
+0	0	93.3	0 93300000	correct	1.62	infinite	12	10
+0	0	93.3	0 93300000	correct	1.66	infinite	12	10
+0	0	93.3	0 93300000	correct	1.7	infinite	12	10
+0	0	93.3	0 93300000	correct	1.74	infinite	12	10
+0	0	93.3	0 93300000	correct	1.78	infinite	12	10
+0	0	93.3	0 93300000	correct	1.82	infinite	12	10
+0	0	93.3	0 93300000	correct	1.86	infinite	12	10
+0	0	93.3	0 93300000	correct	1.9	infinite	12	10
+0	0	93.3	0 93300000	correct	1.94	infinite	12	10
+0	0	93.3	0 93300000	correct	1.98	infinite	12	10
+0	0	93.3	0 93300000	correct	-0.1	infinite	12	10
+0	0	93.3	0 93300000	correct	-0.0600000000000001	infinite	12	10
+0	0	93.3	0 93300000	correct	-0.02	infinite	12	10
+0	0	93.3	0 93300000	correct	0.02	infinite	12	10
+0	0	93.3	0 93300000	correct	0.0600000000000001	infinite	12	10
+0	0	93.3	0 93300000	correct	0.1	infinite	12	10
+0	0	93.3	0 93300000	correct	0.14	infinite	12	10
+0	0	93.3	0 93300000	correct	0.18	infinite	12	10
+0	0	93.3	0 93300000	correct	0.22	infinite	12	10
+0	0	93.3	0 93300000	correct	0.26	infinite	12	10
+0	0	93.3	0 93300000	correct	0.3	infinite	12	10
+0	0	93.3	0 93300000	correct	0.34	infinite	12	10
+0	0	93.3	0 93300000	correct	0.38	infinite	12	10
+1	0	93.3	0 93300000	false positive	-0.18	infinite	12	14
+1	0	93.3	0 93300000	false positive	-0.14	infinite	12	14
+1	0	93.3	0 93300000	false positive	-0.1	infinite	12	14
+0	0	93.3	0 93300000	correct	-0.26	infinite	12	10
+0	0	93.3	0 93300000	correct	-0.22	infinite	12	10
+1	0	93.3	0 93300000	false positive	-0.9	infinite	12	14
+1	0	93.3	0 93300000	false positive	-0.86	infinite	12	14
+1	0	93.3	0 93300000	false positive	-0.82	infinite	12	14
+1	0	93.3	0 93300000	false positive	-0.78	infinite	12	14
+1	0	93.3	0 93300000	false positive	-0.74	infinite	12	14
+1	0	93.3	0 93300000	false positive	-0.7	infinite	12	14
+1	0	93.3	0 93300000	false positive	-0.66	infinite	12	14
+1	0	93.3	0 93300000	false positive	-0.62	infinite	12	14
+1	0	93.3	0 93300000	false positive	-0.58	infinite	12	14
+1	0	93.3	0 93300000	false positive	-0.54	infinite	12	14
+1	0	93.3	0 93300000	false positive	-0.5	infinite	12	14
+1	0	93.3	0 93300000	false positive	-0.46	infinite	12	14
+1	0	93.3	0 93300000	false positive	-0.42	infinite	12	14
+1	0	93.3	0 93300000	false positive	-0.38	infinite	12	14
+1	0	93.3	0 93300000	false positive	-0.34	infinite	12	14
+1	0	93.3	0 93300000	false positive	-0.3	infinite	12	14
+1	0	93.3	0 93300000	false positive	-1.34	infinite	12	14
+1	0	93.3	0 93300000	false positive	-1.3	infinite	12	14
+1	0	93.3	0 93300000	false positive	-1.26	infinite	12	14
+1	0	93.3	0 93300000	false positive	-1.22	infinite	12	14
+1	0	93.3	0 93300000	false positive	-1.18	infinite	12	14
+1	0	93.3	0 93300000	false positive	-1.14	infinite	12	14
+1	0	93.3	0 93300000	false positive	-1.1	infinite	12	14
+1	0	93.3	0 93300000	false positive	-1.06	infinite	12	14
+1	0	93.3	0 93300000	false positive	-1.02	infinite	12	14
+1	0	93.3	0 93300000	false positive	-0.98	infinite	12	14
+1	0	93.3	0 93300000	false positive	-0.94	infinite	12	14
+1	0	93.3	0 93300000	false positive	-1.42	infinite	12	14
+1	0	93.3	0 93300000	false positive	-1.38	infinite	12	14
+1	0	93.3	0 93300000	false positive	-1.74	infinite	12	14
+1	0	93.3	0 93300000	false positive	-1.7	infinite	12	14
+1	0	93.3	0 93300000	false positive	-1.66	infinite	12	14
+1	0	93.3	0 93300000	false positive	-1.62	infinite	12	14
+1	0	93.3	0 93300000	false positive	-1.58	infinite	12	14
+1	0	93.3	0 93300000	false positive	-1.54	infinite	12	14
+1	0	93.3	0 93300000	false positive	-1.5	infinite	12	14
+1	0	93.3	0 93300000	false positive	-1.46	infinite	12	14
+1	0	93.3	0 93300000	false positive	-1.9	infinite	12	14
+1	0	93.3	0 93300000	false positive	-1.86	infinite	12	14
+1	0	93.3	0 93300000	false positive	-1.82	infinite	12	14
+1	0	93.3	0 93300000	false positive	-1.78	infinite	12	14
+1	0	93.3	0 93300000	false positive	-1.94	infinite	12	14
+1	0	93.3	0 93300000	false positive	-2.02	infinite	12	14
+1	0	93.3	0 93300000	false positive	-1.98	infinite	12	14
+1	0	93.3	0 93300000	false positive	-2.1	infinite	12	14
+1	0	93.3	0 93300000	false positive	-2.06	infinite	12	14
+3	0	93.3	0 93300000	false negative	0.3	finite	13	11
+3	0	93.3	0 93300000	false negative	0.34	finite	13	11
+3	0	93.3	0 93300000	false negative	0.38	finite	13	11
+3	0	93.3	0 93300000	false negative	0.42	finite	13	11
+3	0	93.3	0 93300000	false negative	0.46	finite	13	11
+3	0	93.3	0 93300000	false negative	0.5	finite	13	11
+3	0	93.3	0 93300000	false negative	0.54	finite	13	11
+3	0	93.3	0 93300000	false negative	0.58	finite	13	11
+3	0	93.3	0 93300000	false negative	0.62	finite	13	11
+3	0	93.3	0 93300000	false negative	0.66	finite	13	11
+3	0	93.3	0 93300000	false negative	0.7	finite	13	11
+3	0	93.3	0 93300000	false negative	0.74	finite	13	11
+3	0	93.3	0 93300000	false negative	0.78	finite	13	11
+3	0	93.3	0 93300000	false negative	0.82	finite	13	11
+3	0	93.3	0 93300000	false negative	0.86	finite	13	11
+3	0	93.3	0 93300000	false negative	0.9	finite	13	11
+3	0	93.3	0 93300000	false negative	0.94	finite	13	11
+3	0	93.3	0 93300000	false negative	0.98	finite	13	11
+3	0	93.3	0 93300000	false negative	1.02	finite	13	11
+3	0	93.3	0 93300000	false negative	1.06	finite	13	11
+3	0	93.3	0 93300000	false negative	1.1	finite	13	11
+3	0	93.3	0 93300000	false negative	1.14	finite	13	11
+3	0	93.3	0 93300000	false negative	1.18	finite	13	11
+3	0	93.3	0 93300000	false negative	1.22	finite	13	11
+3	0	93.3	0 93300000	false negative	1.26	finite	13	11
+3	0	93.3	0 93300000	false negative	1.3	finite	13	11
+3	0	93.3	0 93300000	false negative	1.34	finite	13	11
+3	0	93.3	0 93300000	false negative	1.38	finite	13	11
+3	0	93.3	0 93300000	false negative	1.42	finite	13	11
+3	0	93.3	0 93300000	false negative	1.46	finite	13	11
+3	0	93.3	0 93300000	false negative	1.5	finite	13	11
+3	0	93.3	0 93300000	false negative	1.54	finite	13	11
+3	0	93.3	0 93300000	false negative	1.58	finite	13	11
+3	0	93.3	0 93300000	false negative	1.62	finite	13	11
+3	0	93.3	0 93300000	false negative	1.66	finite	13	11
+3	0	93.3	0 93300000	false negative	1.7	finite	13	11
+3	0	93.3	0 93300000	false negative	1.74	finite	13	11
+3	0	93.3	0 93300000	false negative	1.78	finite	13	11
+3	0	93.3	0 93300000	false negative	1.82	finite	13	11
+3	0	93.3	0 93300000	false negative	1.86	finite	13	11
+3	0	93.3	0 93300000	false negative	1.9	finite	13	11
+3	0	93.3	0 93300000	false negative	1.94	finite	13	11
+3	0	93.3	0 93300000	false negative	1.98	finite	13	11
+0	0	93.3	0 93300000	correct	-0.26	finite	13	9
+0	0	93.3	0 93300000	correct	-0.22	finite	13	9
+0	0	93.3	0 93300000	correct	-0.18	finite	13	9
+0	0	93.3	0 93300000	correct	-0.14	finite	13	9
+0	0	93.3	0 93300000	correct	-0.1	finite	13	9
+0	0	93.3	0 93300000	correct	-0.0600000000000001	finite	13	9
+0	0	93.3	0 93300000	correct	-0.02	finite	13	9
+0	0	93.3	0 93300000	correct	0.02	finite	13	9
+0	0	93.3	0 93300000	correct	0.0600000000000001	finite	13	9
+0	0	93.3	0 93300000	correct	0.1	finite	13	9
+0	0	93.3	0 93300000	correct	0.14	finite	13	9
+0	0	93.3	0 93300000	correct	0.18	finite	13	9
+0	0	93.3	0 93300000	correct	0.22	finite	13	9
+0	0	93.3	0 93300000	correct	0.26	finite	13	9
+3	0	93.3	0 93300000	false negative	-0.5	finite	13	11
+3	0	93.3	0 93300000	false negative	-0.46	finite	13	11
+3	0	93.3	0 93300000	false negative	-0.42	finite	13	11
+3	0	93.3	0 93300000	false negative	-0.38	finite	13	11
+3	0	93.3	0 93300000	false negative	-0.34	finite	13	11
+3	0	93.3	0 93300000	false negative	-0.3	finite	13	11
+0	0	93.3	0 93300000	correct	-2.1	finite	13	9
+0	0	93.3	0 93300000	correct	-2.06	finite	13	9
+0	0	93.3	0 93300000	correct	-2.02	finite	13	9
+0	0	93.3	0 93300000	correct	-1.98	finite	13	9
+0	0	93.3	0 93300000	correct	-1.94	finite	13	9
+0	0	93.3	0 93300000	correct	-1.9	finite	13	9
+0	0	93.3	0 93300000	correct	-1.86	finite	13	9
+0	0	93.3	0 93300000	correct	-1.82	finite	13	9
+0	0	93.3	0 93300000	correct	-1.78	finite	13	9
+0	0	93.3	0 93300000	correct	-1.74	finite	13	9
+0	0	93.3	0 93300000	correct	-1.7	finite	13	9
+0	0	93.3	0 93300000	correct	-1.66	finite	13	9
+0	0	93.3	0 93300000	correct	-1.62	finite	13	9
+0	0	93.3	0 93300000	correct	-1.58	finite	13	9
+0	0	93.3	0 93300000	correct	-1.54	finite	13	9
+0	0	93.3	0 93300000	correct	-1.5	finite	13	9
+0	0	93.3	0 93300000	correct	-1.46	finite	13	9
+0	0	93.3	0 93300000	correct	-1.42	finite	13	9
+0	0	93.3	0 93300000	correct	-1.38	finite	13	9
+0	0	93.3	0 93300000	correct	-1.34	finite	13	9
+0	0	93.3	0 93300000	correct	-1.3	finite	13	9
+0	0	93.3	0 93300000	correct	-1.26	finite	13	9
+0	0	93.3	0 93300000	correct	-1.22	finite	13	9
+0	0	93.3	0 93300000	correct	-1.18	finite	13	9
+0	0	93.3	0 93300000	correct	-1.14	finite	13	9
+0	0	93.3	0 93300000	correct	-1.1	finite	13	9
+0	0	93.3	0 93300000	correct	-1.06	finite	13	9
+0	0	93.3	0 93300000	correct	-1.02	finite	13	9
+0	0	93.3	0 93300000	correct	-0.98	finite	13	9
+0	0	93.3	0 93300000	correct	-0.94	finite	13	9
+0	0	93.3	0 93300000	correct	-0.9	finite	13	9
+0	0	93.3	0 93300000	correct	-0.86	finite	13	9
+0	0	93.3	0 93300000	correct	-0.82	finite	13	9
+0	0	93.3	0 93300000	correct	-0.78	finite	13	9
+0	0	93.3	0 93300000	correct	-0.74	finite	13	9
+0	0	93.3	0 93300000	correct	-0.7	finite	13	9
+0	0	93.3	0 93300000	correct	-0.66	finite	13	9
+0	0	93.3	0 93300000	correct	-0.62	finite	13	9
+0	0	93.3	0 93300000	correct	-0.58	finite	13	9
+0	0	93.3	0 93300000	correct	-0.54	finite	13	9
+3	0	93.3	0 93300000	false negative	0.9	infinite	14	12
+3	0	93.3	0 93300000	false negative	0.94	infinite	14	12
+3	0	93.3	0 93300000	false negative	0.98	infinite	14	12
+3	0	93.3	0 93300000	false negative	1.02	infinite	14	12
+3	0	93.3	0 93300000	false negative	1.06	infinite	14	12
+3	0	93.3	0 93300000	false negative	1.1	infinite	14	12
+3	0	93.3	0 93300000	false negative	1.14	infinite	14	12
+3	0	93.3	0 93300000	false negative	1.18	infinite	14	12
+3	0	93.3	0 93300000	false negative	1.22	infinite	14	12
+3	0	93.3	0 93300000	false negative	1.26	infinite	14	12
+3	0	93.3	0 93300000	false negative	1.3	infinite	14	12
+3	0	93.3	0 93300000	false negative	1.34	infinite	14	12
+3	0	93.3	0 93300000	false negative	1.38	infinite	14	12
+3	0	93.3	0 93300000	false negative	1.42	infinite	14	12
+3	0	93.3	0 93300000	false negative	1.46	infinite	14	12
+3	0	93.3	0 93300000	false negative	1.5	infinite	14	12
+3	0	93.3	0 93300000	false negative	1.54	infinite	14	12
+3	0	93.3	0 93300000	false negative	1.58	infinite	14	12
+3	0	93.3	0 93300000	false negative	1.62	infinite	14	12
+3	0	93.3	0 93300000	false negative	1.66	infinite	14	12
+3	0	93.3	0 93300000	false negative	1.7	infinite	14	12
+3	0	93.3	0 93300000	false negative	1.74	infinite	14	12
+3	0	93.3	0 93300000	false negative	1.78	infinite	14	12
+3	0	93.3	0 93300000	false negative	1.82	infinite	14	12
+3	0	93.3	0 93300000	false negative	1.86	infinite	14	12
+3	0	93.3	0 93300000	false negative	1.9	infinite	14	12
+3	0	93.3	0 93300000	false negative	1.94	infinite	14	12
+3	0	93.3	0 93300000	false negative	1.98	infinite	14	12
+0	0	93.3	0 93300000	correct	0.38	infinite	14	10
+0	0	93.3	0 93300000	correct	0.42	infinite	14	10
+0	0	93.3	0 93300000	correct	0.46	infinite	14	10
+0	0	93.3	0 93300000	correct	0.5	infinite	14	10
+0	0	93.3	0 93300000	correct	0.54	infinite	14	10
+0	0	93.3	0 93300000	correct	0.58	infinite	14	10
+0	0	93.3	0 93300000	correct	0.62	infinite	14	10
+0	0	93.3	0 93300000	correct	0.66	infinite	14	10
+0	0	93.3	0 93300000	correct	0.7	infinite	14	10
+0	0	93.3	0 93300000	correct	0.74	infinite	14	10
+0	0	93.3	0 93300000	correct	0.78	infinite	14	10
+0	0	93.3	0 93300000	correct	0.82	infinite	14	10
+0	0	93.3	0 93300000	correct	0.86	infinite	14	10
+3	0	93.3	0 93300000	false negative	0.1	infinite	14	12
+3	0	93.3	0 93300000	false negative	0.14	infinite	14	12
+3	0	93.3	0 93300000	false negative	0.18	infinite	14	12
+3	0	93.3	0 93300000	false negative	0.22	infinite	14	12
+3	0	93.3	0 93300000	false negative	0.26	infinite	14	12
+3	0	93.3	0 93300000	false negative	0.3	infinite	14	12
+3	0	93.3	0 93300000	false negative	0.34	infinite	14	12
+0	0	93.3	0 93300000	correct	-2.1	infinite	14	10
+0	0	93.3	0 93300000	correct	-2.06	infinite	14	10
+0	0	93.3	0 93300000	correct	-2.02	infinite	14	10
+0	0	93.3	0 93300000	correct	-1.98	infinite	14	10
+0	0	93.3	0 93300000	correct	-1.94	infinite	14	10
+0	0	93.3	0 93300000	correct	-1.9	infinite	14	10
+0	0	93.3	0 93300000	correct	-1.86	infinite	14	10
+0	0	93.3	0 93300000	correct	-1.82	infinite	14	10
+0	0	93.3	0 93300000	correct	-1.78	infinite	14	10
+0	0	93.3	0 93300000	correct	-1.74	infinite	14	10
+0	0	93.3	0 93300000	correct	-1.7	infinite	14	10
+0	0	93.3	0 93300000	correct	-1.66	infinite	14	10
+0	0	93.3	0 93300000	correct	-1.62	infinite	14	10
+0	0	93.3	0 93300000	correct	-1.58	infinite	14	10
+0	0	93.3	0 93300000	correct	-1.54	infinite	14	10
+0	0	93.3	0 93300000	correct	-1.5	infinite	14	10
+0	0	93.3	0 93300000	correct	-1.46	infinite	14	10
+0	0	93.3	0 93300000	correct	-1.42	infinite	14	10
+0	0	93.3	0 93300000	correct	-1.38	infinite	14	10
+0	0	93.3	0 93300000	correct	-1.34	infinite	14	10
+0	0	93.3	0 93300000	correct	-1.3	infinite	14	10
+0	0	93.3	0 93300000	correct	-1.26	infinite	14	10
+0	0	93.3	0 93300000	correct	-1.22	infinite	14	10
+0	0	93.3	0 93300000	correct	-1.18	infinite	14	10
+0	0	93.3	0 93300000	correct	-1.14	infinite	14	10
+0	0	93.3	0 93300000	correct	-1.1	infinite	14	10
+0	0	93.3	0 93300000	correct	-1.06	infinite	14	10
+0	0	93.3	0 93300000	correct	-1.02	infinite	14	10
+0	0	93.3	0 93300000	correct	-0.98	infinite	14	10
+0	0	93.3	0 93300000	correct	-0.94	infinite	14	10
+0	0	93.3	0 93300000	correct	-0.9	infinite	14	10
+0	0	93.3	0 93300000	correct	-0.86	infinite	14	10
+0	0	93.3	0 93300000	correct	-0.82	infinite	14	10
+0	0	93.3	0 93300000	correct	-0.78	infinite	14	10
+0	0	93.3	0 93300000	correct	-0.74	infinite	14	10
+0	0	93.3	0 93300000	correct	-0.7	infinite	14	10
+0	0	93.3	0 93300000	correct	-0.66	infinite	14	10
+0	0	93.3	0 93300000	correct	-0.62	infinite	14	10
+0	0	93.3	0 93300000	correct	-0.58	infinite	14	10
+0	0	93.3	0 93300000	correct	-0.54	infinite	14	10
+0	0	93.3	0 93300000	correct	-0.5	infinite	14	10
+0	0	93.3	0 93300000	correct	-0.46	infinite	14	10
+0	0	93.3	0 93300000	correct	-0.42	infinite	14	10
+0	0	93.3	0 93300000	correct	-0.38	infinite	14	10
+0	0	93.3	0 93300000	correct	-0.34	infinite	14	10
+0	0	93.3	0 93300000	correct	-0.3	infinite	14	10
+0	0	93.3	0 93300000	correct	-0.26	infinite	14	10
+0	0	93.3	0 93300000	correct	-0.22	infinite	14	10
+0	0	93.3	0 93300000	correct	-0.18	infinite	14	10
+0	0	93.3	0 93300000	correct	-0.14	infinite	14	10
+0	0	93.3	0 93300000	correct	-0.1	infinite	14	10
+0	0	93.3	0 93300000	correct	-0.0600000000000001	infinite	14	10
+0	0	93.3	0 93300000	correct	-0.02	infinite	14	10
+0	0	93.3	0 93300000	correct	0.02	infinite	14	10
+0	0	93.3	0 93300000	correct	0.0600000000000001	infinite	14	10
+0	0	93.3	0 93300000	correct	0.1	infinite	14	10
+3	53.7	135.006516	53700000 135006516	false negative	0.14	finite	15	17
+3	53.7	135.006516	53700000 135006516	false negative	0.18	finite	15	17
+3	53.7	135.006516	53700000 135006516	false negative	0.22	finite	15	17
+3	53.7	135.006516	53700000 135006516	false negative	0.26	finite	15	17
+3	53.7	135.006516	53700000 135006516	false negative	0.3	finite	15	17
+3	53.7	135.006516	53700000 135006516	false negative	0.34	finite	15	17
+3	53.7	135.006516	53700000 135006516	false negative	0.38	finite	15	17
+3	53.7	135.006516	53700000 135006516	false negative	0.42	finite	15	17
+3	53.7	135.006516	53700000 135006516	false negative	0.46	finite	15	17
+3	53.7	135.006516	53700000 135006516	false negative	0.5	finite	15	17
+3	53.7	135.006516	53700000 135006516	false negative	0.54	finite	15	17
+3	53.7	135.006516	53700000 135006516	false negative	0.58	finite	15	17
+3	53.7	135.006516	53700000 135006516	false negative	0.62	finite	15	17
+3	53.7	135.006516	53700000 135006516	false negative	0.66	finite	15	17
+3	53.7	135.006516	53700000 135006516	false negative	0.7	finite	15	17
+3	53.7	135.006516	53700000 135006516	false negative	0.74	finite	15	17
+3	53.7	135.006516	53700000 135006516	false negative	0.78	finite	15	17
+3	53.7	135.006516	53700000 135006516	false negative	0.82	finite	15	17
+3	53.7	135.006516	53700000 135006516	false negative	0.86	finite	15	17
+3	53.7	135.006516	53700000 135006516	false negative	0.9	finite	15	17
+3	53.7	135.006516	53700000 135006516	false negative	0.94	finite	15	17
+3	53.7	135.006516	53700000 135006516	false negative	0.98	finite	15	17
+3	53.7	135.006516	53700000 135006516	false negative	1.02	finite	15	17
+3	53.7	135.006516	53700000 135006516	false negative	1.06	finite	15	17
+3	53.7	135.006516	53700000 135006516	false negative	1.1	finite	15	17
+3	53.7	135.006516	53700000 135006516	false negative	1.14	finite	15	17
+3	53.7	135.006516	53700000 135006516	false negative	1.18	finite	15	17
+3	53.7	135.006516	53700000 135006516	false negative	1.22	finite	15	17
+3	53.7	135.006516	53700000 135006516	false negative	1.26	finite	15	17
+3	53.7	135.006516	53700000 135006516	false negative	1.3	finite	15	17
+3	53.7	135.006516	53700000 135006516	false negative	1.34	finite	15	17
+3	53.7	135.006516	53700000 135006516	false negative	1.38	finite	15	17
+3	53.7	135.006516	53700000 135006516	false negative	1.42	finite	15	17
+3	53.7	135.006516	53700000 135006516	false negative	1.46	finite	15	17
+3	53.7	135.006516	53700000 135006516	false negative	1.5	finite	15	17
+3	53.7	135.006516	53700000 135006516	false negative	1.54	finite	15	17
+3	53.7	135.006516	53700000 135006516	false negative	1.58	finite	15	17
+3	53.7	135.006516	53700000 135006516	false negative	1.62	finite	15	17
+3	53.7	135.006516	53700000 135006516	false negative	1.66	finite	15	17
+3	53.7	135.006516	53700000 135006516	false negative	1.7	finite	15	17
+3	53.7	135.006516	53700000 135006516	false negative	1.74	finite	15	17
+3	53.7	135.006516	53700000 135006516	false negative	1.78	finite	15	17
+3	53.7	135.006516	53700000 135006516	false negative	1.82	finite	15	17
+3	53.7	135.006516	53700000 135006516	false negative	1.86	finite	15	17
+3	53.7	135.006516	53700000 135006516	false negative	1.9	finite	15	17
+3	53.7	135.006516	53700000 135006516	false negative	1.94	finite	15	17
+3	53.7	135.006516	53700000 135006516	false negative	1.98	finite	15	17
+0	53.7	135.006516	53700000 135006516	correct	-0.1	finite	15	15
+0	53.7	135.006516	53700000 135006516	correct	-0.0600000000000001	finite	15	15
+0	53.7	135.006516	53700000 135006516	correct	-0.02	finite	15	15
+0	53.7	135.006516	53700000 135006516	correct	0.02	finite	15	15
+0	53.7	135.006516	53700000 135006516	correct	0.0600000000000001	finite	15	15
+0	53.7	135.006516	53700000 135006516	correct	0.1	finite	15	15
+3	53.7	135.006516	53700000 135006516	false negative	-0.62	finite	15	17
+3	53.7	135.006516	53700000 135006516	false negative	-0.58	finite	15	17
+3	53.7	135.006516	53700000 135006516	false negative	-0.54	finite	15	17
+3	53.7	135.006516	53700000 135006516	false negative	-0.5	finite	15	17
+3	53.7	135.006516	53700000 135006516	false negative	-0.46	finite	15	17
+3	53.7	135.006516	53700000 135006516	false negative	-0.42	finite	15	17
+3	53.7	135.006516	53700000 135006516	false negative	-0.38	finite	15	17
+3	53.7	135.006516	53700000 135006516	false negative	-0.34	finite	15	17
+3	53.7	135.006516	53700000 135006516	false negative	-0.3	finite	15	17
+3	53.7	135.006516	53700000 135006516	false negative	-0.26	finite	15	17
+3	53.7	135.006516	53700000 135006516	false negative	-0.22	finite	15	17
+3	53.7	135.006516	53700000 135006516	false negative	-0.18	finite	15	17
+3	53.7	135.006516	53700000 135006516	false negative	-0.14	finite	15	17
+0	53.7	135.006516	53700000 135006516	correct	-1.34	finite	15	15
+0	53.7	135.006516	53700000 135006516	correct	-1.3	finite	15	15
+0	53.7	135.006516	53700000 135006516	correct	-1.26	finite	15	15
+0	53.7	135.006516	53700000 135006516	correct	-1.22	finite	15	15
+0	53.7	135.006516	53700000 135006516	correct	-1.18	finite	15	15
+0	53.7	135.006516	53700000 135006516	correct	-1.14	finite	15	15
+0	53.7	135.006516	53700000 135006516	correct	-1.1	finite	15	15
+0	53.7	135.006516	53700000 135006516	correct	-1.06	finite	15	15
+0	53.7	135.006516	53700000 135006516	correct	-1.02	finite	15	15
+0	53.7	135.006516	53700000 135006516	correct	-0.98	finite	15	15
+0	53.7	135.006516	53700000 135006516	correct	-0.94	finite	15	15
+0	53.7	135.006516	53700000 135006516	correct	-0.9	finite	15	15
+0	53.7	135.006516	53700000 135006516	correct	-0.86	finite	15	15
+0	53.7	135.006516	53700000 135006516	correct	-0.82	finite	15	15
+0	53.7	135.006516	53700000 135006516	correct	-0.78	finite	15	15
+0	53.7	135.006516	53700000 135006516	correct	-0.74	finite	15	15
+0	53.7	135.006516	53700000 135006516	correct	-0.7	finite	15	15
+0	53.7	135.006516	53700000 135006516	correct	-0.66	finite	15	15
+0	53.7	135.006516	53700000 135006516	correct	-2.1	finite	15	15
+0	53.7	135.006516	53700000 135006516	correct	-2.06	finite	15	15
+0	53.7	135.006516	53700000 135006516	correct	-2.02	finite	15	15
+0	53.7	135.006516	53700000 135006516	correct	-1.98	finite	15	15
+0	53.7	135.006516	53700000 135006516	correct	-1.94	finite	15	15
+0	53.7	135.006516	53700000 135006516	correct	-1.9	finite	15	15
+0	53.7	135.006516	53700000 135006516	correct	-1.86	finite	15	15
+0	53.7	135.006516	53700000 135006516	correct	-1.82	finite	15	15
+0	53.7	135.006516	53700000 135006516	correct	-1.78	finite	15	15
+0	53.7	135.006516	53700000 135006516	correct	-1.74	finite	15	15
+0	53.7	135.006516	53700000 135006516	correct	-1.7	finite	15	15
+0	53.7	135.006516	53700000 135006516	correct	-1.66	finite	15	15
+0	53.7	135.006516	53700000 135006516	correct	-1.62	finite	15	15
+0	53.7	135.006516	53700000 135006516	correct	-1.58	finite	15	15
+0	53.7	135.006516	53700000 135006516	correct	-1.54	finite	15	15
+0	53.7	135.006516	53700000 135006516	correct	-1.5	finite	15	15
+0	53.7	135.006516	53700000 135006516	correct	-1.46	finite	15	15
+0	53.7	135.006516	53700000 135006516	correct	-1.42	finite	15	15
+0	53.7	135.006516	53700000 135006516	correct	-1.38	finite	15	15
+3	53.7	135.006516	53700000 135006516	false negative	0.9	infinite	16	18
+3	53.7	135.006516	53700000 135006516	false negative	0.94	infinite	16	18
+3	53.7	135.006516	53700000 135006516	false negative	0.98	infinite	16	18
+3	53.7	135.006516	53700000 135006516	false negative	1.02	infinite	16	18
+3	53.7	135.006516	53700000 135006516	false negative	1.06	infinite	16	18
+3	53.7	135.006516	53700000 135006516	false negative	1.1	infinite	16	18
+3	53.7	135.006516	53700000 135006516	false negative	1.14	infinite	16	18
+3	53.7	135.006516	53700000 135006516	false negative	1.18	infinite	16	18
+3	53.7	135.006516	53700000 135006516	false negative	1.22	infinite	16	18
+3	53.7	135.006516	53700000 135006516	false negative	1.26	infinite	16	18
+3	53.7	135.006516	53700000 135006516	false negative	1.3	infinite	16	18
+3	53.7	135.006516	53700000 135006516	false negative	1.34	infinite	16	18
+3	53.7	135.006516	53700000 135006516	false negative	1.38	infinite	16	18
+3	53.7	135.006516	53700000 135006516	false negative	1.42	infinite	16	18
+3	53.7	135.006516	53700000 135006516	false negative	1.46	infinite	16	18
+3	53.7	135.006516	53700000 135006516	false negative	1.5	infinite	16	18
+3	53.7	135.006516	53700000 135006516	false negative	1.54	infinite	16	18
+3	53.7	135.006516	53700000 135006516	false negative	1.58	infinite	16	18
+3	53.7	135.006516	53700000 135006516	false negative	1.62	infinite	16	18
+3	53.7	135.006516	53700000 135006516	false negative	1.66	infinite	16	18
+3	53.7	135.006516	53700000 135006516	false negative	1.7	infinite	16	18
+3	53.7	135.006516	53700000 135006516	false negative	1.74	infinite	16	18
+3	53.7	135.006516	53700000 135006516	false negative	1.78	infinite	16	18
+3	53.7	135.006516	53700000 135006516	false negative	1.82	infinite	16	18
+3	53.7	135.006516	53700000 135006516	false negative	1.86	infinite	16	18
+3	53.7	135.006516	53700000 135006516	false negative	1.9	infinite	16	18
+3	53.7	135.006516	53700000 135006516	false negative	1.94	infinite	16	18
+3	53.7	135.006516	53700000 135006516	false negative	1.98	infinite	16	18
+0	53.7	135.006516	53700000 135006516	correct	0.62	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	0.66	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	0.7	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	0.74	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	0.78	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	0.82	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	0.86	infinite	16	16
+3	53.7	135.006516	53700000 135006516	false negative	0.1	infinite	16	18
+3	53.7	135.006516	53700000 135006516	false negative	0.14	infinite	16	18
+3	53.7	135.006516	53700000 135006516	false negative	0.18	infinite	16	18
+3	53.7	135.006516	53700000 135006516	false negative	0.22	infinite	16	18
+3	53.7	135.006516	53700000 135006516	false negative	0.26	infinite	16	18
+3	53.7	135.006516	53700000 135006516	false negative	0.3	infinite	16	18
+3	53.7	135.006516	53700000 135006516	false negative	0.34	infinite	16	18
+3	53.7	135.006516	53700000 135006516	false negative	0.38	infinite	16	18
+3	53.7	135.006516	53700000 135006516	false negative	0.42	infinite	16	18
+3	53.7	135.006516	53700000 135006516	false negative	0.46	infinite	16	18
+3	53.7	135.006516	53700000 135006516	false negative	0.5	infinite	16	18
+3	53.7	135.006516	53700000 135006516	false negative	0.54	infinite	16	18
+3	53.7	135.006516	53700000 135006516	false negative	0.58	infinite	16	18
+0	53.7	135.006516	53700000 135006516	correct	-0.58	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	-0.54	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	-0.5	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	-0.46	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	-0.42	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	-0.38	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	-0.34	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	-0.3	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	-0.26	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	-0.22	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	-0.18	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	-0.14	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	-0.1	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	-0.0600000000000001	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	-0.02	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	0.02	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	0.0600000000000001	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	0.1	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	-1.82	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	-1.78	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	-1.74	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	-1.7	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	-1.66	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	-1.62	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	-1.58	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	-1.54	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	-1.5	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	-1.46	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	-1.42	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	-1.38	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	-1.34	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	-1.3	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	-1.26	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	-1.22	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	-1.18	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	-1.14	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	-1.1	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	-1.06	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	-1.02	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	-0.98	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	-0.94	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	-0.9	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	-0.86	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	-0.82	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	-0.78	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	-0.74	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	-0.7	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	-0.66	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	-0.62	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	-1.98	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	-1.94	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	-1.9	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	-1.86	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	-2.06	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	-2.02	infinite	16	16
+0	53.7	135.006516	53700000 135006516	correct	-2.1	infinite	16	16
